@@ -1,0 +1,20 @@
+import { withAuth } from 'next-auth/middleware';
+
+// Every route under (dashboard) requires a signed-in session. Fine-grained
+// per-page permission checks (view_agent_custody, manage_imports, ...)
+// happen inside each page/server-action via hasPermission() — this
+// middleware only enforces "is anyone logged in at all".
+export default withAuth({
+  pages: { signIn: '/login' }
+});
+
+export const config = {
+  matcher: [
+    '/overview/:path*',
+    '/custody/:path*',
+    '/warehouse/:path*',
+    '/data-management/:path*',
+    '/admin/:path*',
+    '/coming-soon/:path*'
+  ]
+};

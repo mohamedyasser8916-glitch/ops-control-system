@@ -1,0 +1,1001 @@
+Date,Order,Material Type,Count,Agent Code,Team,Agent Name,Vendor Name,City,Region,Country
+2026-01-01 00:00:00,Received,Recycle Box,0.0,,Recycling,,,Alex,Delta,Egy
+2026-01-01 00:00:00,Received,Recycle Cable,0.0,,Recycling,,,Alex,Delta,Egy
+2026-01-01 00:00:00,Received,Recycle Adapter,0.0,,Recycling,,,Alex,Delta,Egy
+2026-01-01 00:00:00,Received,Recycle SIM,484.0,,Recycling,,,Alex,Delta,Egy
+2026-01-01 00:00:00,Received,Paper Roll (Paymob),1605.0,,,,,Alex,Delta,Egy
+2026-01-01 00:00:00,Received,Hot-Line Stickers,116.0,,,,,Alex,Delta,Egy
+2026-01-01 00:00:00,Received,Door Stickers,8.0,,,,,Alex,Delta,Egy
+2026-01-01 00:00:00,Received,Vodafone SIMS,503.0,,,,,Alex,Delta,Egy
+2026-01-01 00:00:00,Received,Adapter,70.0,,,,,Alex,Delta,Egy
+2026-01-01 00:00:00,Received,Etisalat SIMS,30.0,,,,,Alex,Delta,Egy
+2026-01-01 00:00:00,Received,Cable Type C,14.0,,,,,Alex,Delta,Egy
+2026-01-01 00:00:00,Received,Vodafone SIMS,75.0,,,,,Alex,Delta,Egy
+2026-01-01 00:00:00,Received,Branded POS Stickers,1392.0,,,,,Alex,Delta,Egy
+2026-01-01 00:00:00,Received,Front Box Sticker,160.0,,,,,Alex,Delta,Egy
+2026-01-01 00:00:00,Received,Back Box Sticker,40.0,,,,,Alex,Delta,Egy
+2026-01-01 00:00:00,Received,Right Side Box Sticker,90.0,,,,,Alex,Delta,Egy
+2026-01-01 00:00:00,Received,Left Side Box Sticker,90.0,,,,,Alex,Delta,Egy
+2026-01-01 00:00:00,Received,Small Box Sticker,100.0,,,,,Alex,Delta,Egy
+2026-01-01 00:00:00,Received,A920 Brochure,200.0,,,,,Alex,Delta,Egy
+2026-01-01 00:00:00,Received,Branded POS Stickers,900.0,,,,,Alex,Delta,Egy
+2026-01-01 00:00:00,Received,Cable Type Micro,83.0,,,,,Alex,Delta,Egy
+2026-01-01 00:00:00,Received,Cancellation Receipts,600.0,,,,,Alex,Delta,Egy
+2026-01-01 00:00:00,Received,Deploy Receipts,700.0,,,,,Alex,Delta,Egy
+2026-01-01 00:00:00,Received,Cash Receipts,200.0,,,,,Alex,Delta,Egy
+2026-01-01 00:00:00,Received,A920 Battery,55.0,,,,,Alex,Delta,Egy
+2026-01-01 00:00:00,Received,BM Boxes,140.0,,,,,Alex,Delta,Egy
+2026-01-01 00:00:00,Received,A920 Pro Battery,30.0,,,,,Alex,Delta,Egy
+2026-01-04 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Bahaa Basuony Mohamed Alsagheer,sr. from 79901- 79950,Alex,Delta,Egy
+2026-01-04 00:00:00,Assigned,Paper Roll (Paymob),30.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-01-04 00:00:00,Assigned,Cable Type C,1.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-01-04 00:00:00,Assigned,A920 Battery,2.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-01-04 00:00:00,Assigned,Paper Roll (Paymob),30.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-01-04 00:00:00,Assigned,A920 Pro Battery,2.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-01-04 00:00:00,Assigned,A920 Battery,4.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-01-04 00:00:00,Assigned,Orange SIMS,34.0,,Recycling,,,Alex,Delta,Egy
+2026-01-04 00:00:00,Assigned,A920 Battery,5.0,,Alex-Ops,Karim Anwar Fahim Ibrahim,,Alex,Delta,Egy
+2026-01-04 00:00:00,Assigned,A920 Pro Battery,2.0,,Alex-Ops,Karim Anwar Fahim Ibrahim,,Alex,Delta,Egy
+2026-01-04 00:00:00,Assigned,Paper Roll (Paymob),30.0,,Alex-Ops,Karim Anwar Fahim Ibrahim,,Alex,Delta,Egy
+2026-01-06 00:00:00,Received,BM Boxes,200.0,,,,,Alex,Delta,Egy
+2026-01-06 00:00:00,Received,Cable Type Micro,285.0,,,,,Alex,Delta,Egy
+2026-01-06 00:00:00,Received,Orange SIMS,50.0,,,,,Alex,Delta,Egy
+2026-01-06 00:00:00,Received,Paper Roll (Paymob),2240.0,,,,,Alex,Delta,Egy
+2026-01-06 00:00:00,Assigned,Orange SIMS,5.0,,Alex-Ops,Karim Anwar Fahim Ibrahim,,Alex,Delta,Egy
+2026-01-06 00:00:00,Assigned,Cable Type C,1.0,,Alex-Ops,Karim Anwar Fahim Ibrahim,,Alex,Delta,Egy
+2026-01-06 00:00:00,Assigned,Cable Type Micro,2.0,,Alex-Ops,Karim Anwar Fahim Ibrahim,,Alex,Delta,Egy
+2026-01-06 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Karim Anwar Fahim Ibrahim,,Alex,Delta,Egy
+2026-01-06 00:00:00,Assigned,BM Boxes,10.0,,Recycling,,,Alex,Delta,Egy
+2026-01-06 00:00:00,Assigned,Cable Type C,33.0,,Recycling,,,Alex,Delta,Egy
+2026-01-06 00:00:00,Assigned,Branded POS Stickers,33.0,,Recycling,,,Alex,Delta,Egy
+2026-01-06 00:00:00,Assigned,Paper Roll (Paymob),33.0,,Recycling,,,Alex,Delta,Egy
+2026-01-08 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Karim Anwar Fahim Ibrahim,,Alex,Delta,Egy
+2026-01-11 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-01-11 00:00:00,Assigned,Orange SIMS,5.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-01-11 00:00:00,Assigned,A920 Battery,3.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-01-11 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-01-11 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Karim Anwar Fahim Ibrahim,,Alex,Delta,Egy
+2026-01-12 00:00:00,Assigned,Paper Roll (Paymob),30.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-01-12 00:00:00,Assigned,A920 Battery,3.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-01-12 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Recycling,,,Alex,Delta,Egy
+2026-01-12 00:00:00,Assigned,Cable Type Micro,40.0,,Recycling,,,Alex,Delta,Egy
+2026-01-12 00:00:00,Assigned,BM Boxes,40.0,,Recycling,,,Alex,Delta,Egy
+2026-01-12 00:00:00,Assigned,Branded POS Stickers,40.0,,Recycling,,,Alex,Delta,Egy
+2026-01-13 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-01-13 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Karim Anwar Fahim Ibrahim,,Alex,Delta,Egy
+2026-01-14 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-01-14 00:00:00,Assigned,A920 Battery,2.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-01-14 00:00:00,Assigned,A920 Pro Battery,1.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-01-15 00:00:00,Assigned,A920 Battery,1.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-01-15 00:00:00,Assigned,Cancellation Receipts,14.0,,Alex-Ops,Ahmed Mohamed Ahmed Mohamed Alsaqa,80151-80164,Alex,Delta,Egy
+2026-01-18 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-01-18 00:00:00,Assigned,A920 Battery,1.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-01-18 00:00:00,Assigned,A920 Pro Battery,1.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-01-18 00:00:00,Assigned,Adapter,1.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-01-18 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-01-18 00:00:00,Assigned,A920 Battery,3.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-01-18 00:00:00,Assigned,A920 Pro Battery,2.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-01-18 00:00:00,Assigned,Adapter,1.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-01-18 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,80251-80300,Alex,Delta,Egy
+2026-01-18 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,80201-80250,Alex,Delta,Egy
+2026-01-18 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-01-18 00:00:00,Assigned,A920 Pro Battery,1.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-01-18 00:00:00,Assigned,Paper Roll (Paymob),80.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,,Alex,Delta,Egy
+2026-01-18 00:00:00,Assigned,Adapter,2.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,,Alex,Delta,Egy
+2026-01-18 00:00:00,Assigned,Door Stickers,3.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,,Alex,Delta,Egy
+2026-01-18 00:00:00,Assigned,Orange SIMS,5.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,,Alex,Delta,Egy
+2026-01-18 00:00:00,Assigned,Paper Roll (Paymob),30.0,,Recycling,,,Alex,Delta,Egy
+2026-01-18 00:00:00,Assigned,BM Boxes,10.0,,Recycling,,,Alex,Delta,Egy
+2026-01-18 00:00:00,Assigned,Cable Type Micro,30.0,,Recycling,,,Alex,Delta,Egy
+2026-01-18 00:00:00,Assigned,Branded POS Stickers,30.0,,Recycling,,,Alex,Delta,Egy
+2026-01-19 00:00:00,Assigned,Cancellation Receipts,36.0,,Alex-Ops,,80165-80200(yasser Hamdy),Alex,Delta,Egy
+2026-01-20 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Sales,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-01-20 00:00:00,Assigned,Adapter,1.0,,Alex-Sales,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-01-20 00:00:00,Assigned,A920 Battery,2.0,,Alex-Sales,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-01-20 00:00:00,Assigned,Cable Type Micro,1.0,,Alex-Sales,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-01-21 00:00:00,Received,Cable Type C,50.0,,,,,Alex,Delta,Egy
+2026-01-21 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Bahaa Basuony Mohamed Alsagheer,80301 - 80350,Alex,Delta,Egy
+2026-01-21 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Karim Anwar Fahim Ibrahim,,Alex,Delta,Egy
+2026-01-25 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-01-25 00:00:00,Assigned,Orange SIMS,3.0,,Alex-Ops,Karim Anwar Fahim Ibrahim,,Alex,Delta,Egy
+2026-01-25 00:00:00,Assigned,Deploy Receipts,50.0,,Alex-Ops,Karim Anwar Fahim Ibrahim,45801-45850,Alex,Delta,Egy
+2026-01-25 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Karim Anwar Fahim Ibrahim,80351-80400,Alex,Delta,Egy
+2026-01-26 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Karim Anwar Fahim Ibrahim,,Alex,Delta,Egy
+2026-01-26 00:00:00,Assigned,A920 Battery,4.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-01-26 00:00:00,Assigned,Adapter,1.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-01-26 00:00:00,Assigned,Paper Roll (Paymob),6.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-01-27 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-01-28 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Karim Anwar Fahim Ibrahim,,Alex,Delta,Egy
+2026-01-28 00:00:00,Assigned,Adapter,2.0,,Alex-Ops,Karim Anwar Fahim Ibrahim,,Alex,Delta,Egy
+2026-01-28 00:00:00,Assigned,Paper Roll (Paymob),70.0,,Recycling,,,Alex,Delta,Egy
+2026-01-28 00:00:00,Assigned,Cable Type Micro,70.0,,Recycling,,,Alex,Delta,Egy
+2026-01-28 00:00:00,Assigned,BM Boxes,50.0,,Recycling,,,Alex,Delta,Egy
+2026-01-28 00:00:00,Assigned,Cable Type C,20.0,,Recycling,,,Alex,Delta,Egy
+2026-01-28 00:00:00,Assigned,Branded POS Stickers,70.0,,Recycling,,,Alex,Delta,Egy
+2026-02-01 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Ahmed Hatem Hassan Mahmoud,80451 - 80500,Alex,Delta,Egy
+2026-02-01 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-02-01 00:00:00,Assigned,A920 Pro Battery,3.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-02-01 00:00:00,Assigned,Paper Roll (Paymob),12.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-02-01 00:00:00,Assigned,Door Stickers,2.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-02-01 00:00:00,Assigned,A920 Battery,5.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-02-01 00:00:00,Assigned,A920 Pro Battery,1.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-02-01 00:00:00,Assigned,Deploy Receipts,50.0,,Alex-Ops,Karim Anwar Fahim Ibrahim,45951-46000,Alex,Delta,Egy
+2026-02-02 00:00:00,Assigned,Adapter,1.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-02-02 00:00:00,Assigned,A920 Battery,4.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-02-02 00:00:00,Assigned,Cable Type C,1.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-02-02 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-02-02 00:00:00,Assigned,A920 Battery,4.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-02-02 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-02-02 00:00:00,Assigned,Paper Roll (Paymob),10.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-02-02 00:00:00,Assigned,A920 Battery,4.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-02-02 00:00:00,Assigned,Vodafone SIMS,2.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-02-04 00:00:00,Assigned,Deploy Receipts,50.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,46001-46050,Alex,Delta,Egy
+2026-02-04 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-02-05 00:00:00,Received,BM Boxes,100.0,,,,,Alex,Delta,Egy
+2026-02-05 00:00:00,Received,Orange SIMS,100.0,,,,,Alex,Delta,Egy
+2026-02-05 00:00:00,Received,Cable Type C,30.0,,,,,Alex,Delta,Egy
+2026-02-05 00:00:00,Received,Cable Type Micro,200.0,,,,,Alex,Delta,Egy
+2026-02-05 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-02-05 00:00:00,Assigned,Adapter,1.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-02-05 00:00:00,Assigned,Cable Type Micro,1.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-02-05 00:00:00,Assigned,A920 Pro Battery,1.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-02-05 00:00:00,Assigned,Vodafone SIMS,3.0,,Recycling,,,Alex,Delta,Egy
+2026-02-08 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Bahaa Basuony Mohamed Alsagheer,80401- 80450,Alex,Delta,Egy
+2026-02-08 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-02-08 00:00:00,Assigned,Vodafone SIMS,3.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-02-08 00:00:00,Assigned,Cable Type Micro,1.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-02-08 00:00:00,Assigned,Adapter,1.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-02-08 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-02-08 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-02-08 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-02-08 00:00:00,Assigned,Adapter,1.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-02-08 00:00:00,Assigned,Vodafone SIMS,20.0,,Recycling,,,Alex,Delta,Egy
+2026-02-08 00:00:00,Assigned,A920 Pro Battery,3.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-02-08 00:00:00,Assigned,Vodafone SIMS,5.0,,Recycling,,,Alex,Delta,Egy
+2026-02-08 00:00:00,Assigned,Paper Roll (Paymob),35.0,,Recycling,,,Alex,Delta,Egy
+2026-02-08 00:00:00,Assigned,Cable Type Micro,35.0,,Recycling,,,Alex,Delta,Egy
+2026-02-08 00:00:00,Assigned,BM Boxes,35.0,,Recycling,,,Alex,Delta,Egy
+2026-02-09 00:00:00,Assigned,Vodafone SIMS,5.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-02-09 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,,Mohammed Saeid 80501-80550,Alex,Delta,Egy
+2026-02-09 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-02-10 00:00:00,Assigned,Deploy Receipts,50.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,46051 - 46100,Alex,Delta,Egy
+2026-02-10 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,25674- 25700,Alex,Delta,Egy
+2026-02-10 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-02-10 00:00:00,Assigned,Vodafone SIMS,5.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-02-10 00:00:00,Assigned,Paper Roll (Paymob),85.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-02-10 00:00:00,Assigned,Vodafone SIMS,20.0,,Recycling,,,Alex,Delta,Egy
+2026-02-11 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-02-11 00:00:00,Received,Paper Roll (Paymob),2000.0,,,,,Alex,Delta,Egy
+2026-02-11 00:00:00,Received,Cancellation Receipts,500.0,,,,,Alex,Delta,Egy
+2026-02-11 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-02-11 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,89701 - 89750,Alex,Delta,Egy
+2026-02-11 00:00:00,Assigned,Cash Receipts,50.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,801 - 850,Alex,Delta,Egy
+2026-02-11 00:00:00,Assigned,Deploy Receipts,50.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,46101 - 46150,Alex,Delta,Egy
+2026-02-11 00:00:00,Assigned,Replacement Receipts,50.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat, 1801 - 1850,Alex,Delta,Egy
+2026-02-11 00:00:00,Assigned,Replacement Receipts,50.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,1851 - 1900,Alex,Delta,Egy
+2026-02-11 00:00:00,Assigned,Replacement Receipts,50.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,1901 - 1950,Alex,Delta,Egy
+2026-02-11 00:00:00,Received,Replacement Receipts,500.0,,,,,Alex,Delta,Egy
+2026-01-01 00:00:00,Assigned,Cancellation Receipts,150.0,,,,,Alex,Delta,Egy
+2026-02-11 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,89751 - 89800,Alex,Delta,Egy
+2026-02-11 00:00:00,Assigned,Replacement Receipts,50.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,1951 - 2000,Alex,Delta,Egy
+2026-02-11 00:00:00,Assigned,Replacement Receipts,50.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,2001 - 2050,Alex,Delta,Egy
+2026-02-11 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Ahmed Hatem Hassan Mahmoud,89801 - 89850,Alex,Delta,Egy
+2026-02-12 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-02-15 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-02-15 00:00:00,Assigned,Deploy Receipts,50.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,46151 - 46200,Alex,Delta,Egy
+2026-02-15 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-02-15 00:00:00,Assigned,Vodafone SIMS,2.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-02-15 00:00:00,Assigned,Paper Roll (Paymob),100.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,,Alex,Delta,Egy
+2026-02-15 00:00:00,Assigned,Cable Type C,2.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,,Alex,Delta,Egy
+2026-02-15 00:00:00,Assigned,Cable Type Micro,2.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,,Alex,Delta,Egy
+2026-02-15 00:00:00,Assigned,Vodafone SIMS,5.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,,Alex,Delta,Egy
+2026-02-15 00:00:00,Assigned,Replacement Receipts,50.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,2051 -2100,Alex,Delta,Egy
+2026-02-15 00:00:00,Assigned,Paper Roll (Paymob),80.0,,Recycling,,,Alex,Delta,Egy
+2026-02-15 00:00:00,Assigned,BM Boxes,80.0,,Recycling,,,Alex,Delta,Egy
+2026-02-15 00:00:00,Assigned,Cable Type Micro,80.0,,Recycling,,,Alex,Delta,Egy
+2026-02-16 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-02-16 00:00:00,Assigned,Paper Roll (Paymob),5.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-02-16 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-02-17 00:00:00,Assigned,Adapter,7.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-02-17 00:00:00,Assigned,Adapter,5.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-02-17 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-02-17 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-02-17 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-02-17 00:00:00,Assigned,Adapter,2.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-02-18 00:00:00,Assigned,Cash Receipts,50.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,7958-8000,Alex,Delta,Egy
+2026-02-22 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,,89851-89900 Yasser Hamdy,Alex,Delta,Egy
+2026-02-22 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,,89901-89950 Mohammed Basyouny,Alex,Delta,Egy
+2026-02-22 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,,89951-90000 Hossam Rashid,Alex,Delta,Egy
+2026-02-22 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-02-22 00:00:00,Assigned,Cable Type C,1.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-02-22 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-02-22 00:00:00,Assigned,Deploy Receipts,50.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,46201-46250,Alex,Delta,Egy
+2026-02-23 00:00:00,Assigned,Cable Type C,6.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-02-23 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,89951-90000,Alex,Delta,Egy
+2026-01-23 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Bahaa Basuony Mohamed Alsagheer,90001-90050,Alex,Delta,Egy
+2026-02-23 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-02-23 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-02-23 00:00:00,Assigned,Cable Type C,2.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-02-23 00:00:00,Assigned,Cable Type Micro,2.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-02-23 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-02-23 00:00:00,Assigned,Cable Type C,5.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-02-23 00:00:00,Assigned,Cable Type Micro,5.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-02-23 00:00:00,Assigned,Vodafone SIMS,5.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-02-24 00:00:00,Assigned,Paper Roll (Paymob),50.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-02-24 00:00:00,Assigned,Orange SIMS,2.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-02-25 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-02-25 00:00:00,Assigned,Adapter,12.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-02-25 00:00:00,Assigned,Cable Type Micro,3.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-02-25 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-02-25 00:00:00,Assigned,Orange SIMS,3.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-02-26 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-02-26 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-02-26 00:00:00,Assigned,Door Stickers,1.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-02-26 00:00:00,Assigned,Orange SIMS,1.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-02-26 00:00:00,Assigned,Adapter,3.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-02-26 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-02-26 00:00:00,Assigned,Orange SIMS,1.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-02-26 00:00:00,Assigned,Cable Type Micro,1.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-03-01 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-03-01 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-03-01 00:00:00,Assigned,Cable Type Micro,3.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-03-01 00:00:00,Assigned,Adapter,2.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-03-02 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-03-02 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-03-02 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,90051 - 90100,Alex,Delta,Egy
+2026-03-02 00:00:00,Received,Cable Type C,50.0,,,,,Alex,Delta,Egy
+2026-03-02 00:00:00,Received,BM Boxes,200.0,,,,,Alex,Delta,Egy
+2026-03-03 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Ahmed Hatem Hassan Mahmoud,90101 - 90150,Alex,Delta,Egy
+2026-03-03 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-03-04 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-03-05 00:00:00,Assigned,Cancellation Receipts,15.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,69835 - 69850,Alex,Delta,Egy
+2026-03-08 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-03-08 00:00:00,Assigned,A920 Pro Battery,1.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-03-08 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,,Alex,Delta,Egy
+2026-03-08 00:00:00,Assigned,Cable Type C,3.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,,Alex,Delta,Egy
+2026-03-08 00:00:00,Assigned,Cable Type Micro,3.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,,Alex,Delta,Egy
+2026-03-08 00:00:00,Assigned,Adapter,4.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,,Alex,Delta,Egy
+2026-03-08 00:00:00,Assigned,Orange SIMS,5.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,,Alex,Delta,Egy
+2026-03-08 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-03-08 00:00:00,Assigned,Orange SIMS,3.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-03-08 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-03-08 00:00:00,Assigned,Orange SIMS,10.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-03-08 00:00:00,Assigned,Cable Type C,1.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-03-08 00:00:00,Assigned,Adapter,2.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-03-08 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-03-09 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-03-09 00:00:00,Assigned,Orange SIMS,3.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-03-09 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-03-09 00:00:00,Assigned,Cable Type C,2.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-03-09 00:00:00,Assigned,Cable Type Micro,2.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-03-09 00:00:00,Assigned,Adapter,4.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-03-09 00:00:00,Assigned,Orange SIMS,10.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-03-10 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-03-11 00:00:00,Assigned,Deploy Receipts,46.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,45954- 46000,Alex,Delta,Egy
+2026-03-11 00:00:00,Assigned,Cancellation Receipts,45.0,,Alex-Ops,Bahaa Basuony Mohamed Alsagheer,89905 - 89950,Alex,Delta,Egy
+2026-03-11 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-03-11 00:00:00,Assigned,Adapter,4.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-03-12 00:00:00,Assigned,Deploy Receipts,47.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,2103 -  2150,Alex,Delta,Egy
+2026-03-12 00:00:00,Assigned,Cancellation Receipts,45.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,89855 - 89900,Alex,Delta,Egy
+2026-03-15 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-03-15 00:00:00,Assigned,Cable Type C,1.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-03-15 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-03-15 00:00:00,Assigned,Cable Type C,1.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-03-15 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-03-15 00:00:00,Assigned,Deploy Receipts,50.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,46251 -  46300,Alex,Delta,Egy
+2026-03-15 00:00:00,Assigned,Orange SIMS,4.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-03-15 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-03-16 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-03-16 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-03-16 00:00:00,Assigned,Deploy Receipts,50.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,46301 -  46350,Alex,Delta,Egy
+2026-03-16 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-03-17 00:00:00,Assigned,Orange SIMS,60.0,,Recycling,,,Alex,Delta,Egy
+2026-03-17 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Ahmed Hatem Hassan Mahmoud,90151 - 90200,Alex,Delta,Egy
+2026-03-18 00:00:00,Assigned,Adapter,4.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-03-24 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-03-24 00:00:00,Assigned,Cable Type C,1.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-03-24 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-03-24 00:00:00,Assigned,Cancellation Receipts,14.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,41487 - 41500,Alex,Delta,Egy
+2026-03-24 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-03-24 00:00:00,Assigned,Orange SIMS,4.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-03-29 00:00:00,Assigned,Orange SIMS,30.0,,Recycling,,,Alex,Delta,Egy
+2026-03-29 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-03-29 00:00:00,Assigned,Deploy Receipts,47.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,5754 - 5800,Alex,Delta,Egy
+2026-03-29 00:00:00,Assigned,Deploy Receipts,23.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,1878 - 1900,Alex,Delta,Egy
+2026-03-29 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-03-29 00:00:00,Assigned,Adapter,5.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-03-29 00:00:00,Assigned,Paper Roll (Paymob),500.0,,Recycling,,,Alex,Delta,Egy
+2026-03-29 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-03-29 00:00:00,Assigned,Cable Type Micro,154.0,,Recycling,,,Alex,Delta,Egy
+2026-03-29 00:00:00,Assigned,Cable Type C,34.0,,Recycling,,,Alex,Delta,Egy
+2026-03-29 00:00:00,Assigned,BM Boxes,180.0,,Recycling,,,Alex,Delta,Egy
+2026-03-30 00:00:00,Received,Paper Roll (Paymob),2800.0,,,,,Alex,Delta,Egy
+2026-03-30 00:00:00,Received,Orange SIMS,400.0,,,,,Alex,Delta,Egy
+2026-03-30 00:00:00,Assigned,Cancellation Receipts,23.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,25677 -  25700,Alex,Delta,Egy
+2026-03-30 00:00:00,Assigned,Orange SIMS,50.0,,Recycling,,,Alex,Delta,Egy
+2026-04-01 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-04-01 00:00:00,Assigned,Adapter,2.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-04-01 00:00:00,Assigned,Cable Type C,2.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-04-01 00:00:00,Assigned,Cancellation Receipts,,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,75422 - 75450,Alex,Delta,Egy
+2026-04-01 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-04-01 00:00:00,Assigned,Cable Type Micro,2.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-04-01 00:00:00,Assigned,Orange SIMS,5.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-04-01 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Recycling,,,Alex,Delta,Egy
+2026-04-01 00:00:00,Assigned,Cable Type Micro,40.0,,Recycling,,,Alex,Delta,Egy
+2026-04-01 00:00:00,Assigned,BM Boxes,20.0,,Recycling,,,Alex,Delta,Egy
+2026-04-01 00:00:00,Assigned,Orange SIMS,10.0,,Recycling,,,Alex,Delta,Egy
+2026-04-02 00:00:00,Assigned,Cancellation Receipts,5.0,,Alex-Ops,Bahaa Basuony Mohamed Alsagheer,75346 -  75350,Alex,Delta,Egy
+2026-04-06 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Bahaa Basuony Mohamed Alsagheer,90451 - 90500,Alex,Delta,Egy
+2026-04-06 00:00:00,Received,Cancellation Receipts,650.0,,,,,Alex,Delta,Egy
+2026-04-06 00:00:00,Received,Deploy Receipts,500.0,,,,,Alex,Delta,Egy
+2026-04-06 00:00:00,Assigned,A920 Battery,5.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-04-06 00:00:00,Assigned,A920 Pro Battery,3.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-04-06 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-04-06 00:00:00,Assigned,Deploy Receipts,50.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,46351 - 46400,Alex,Delta,Egy
+2026-04-06 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-04-06 00:00:00,Assigned,Adapter,1.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-04-06 00:00:00,Assigned,Adapter,3.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-04-06 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,90401 - 90450,Alex,Delta,Egy
+2026-04-06 00:00:00,Assigned,Deploy Receipts,50.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,46401 - 46450,Alex,Delta,Egy
+2026-04-07 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,90351 -  90400,Alex,Delta,Egy
+2026-04-07 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Ahmed Hatem Hassan Mahmoud,93351 - 93400,Alex,Delta,Egy
+2026-03-31 00:00:00,Assigned,Cable Type Micro,30.0,,Recycling,,,Alex,Delta,Egy
+2026-03-31 00:00:00,Assigned,BM Boxes,42.0,,Recycling,,,Alex,Delta,Egy
+2026-03-31 00:00:00,Assigned,Cable Type C,15.0,,Recycling,,,Alex,Delta,Egy
+2026-04-07 00:00:00,Assigned,Orange SIMS,60.0,,Recycling,,,Alex,Delta,Egy
+2026-04-08 00:00:00,Assigned,Orange SIMS,23.0,,Recycling,,,Alex,Delta,Egy
+2026-04-08 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-04-08 00:00:00,Assigned,Adapter,3.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-04-08 00:00:00,Assigned,Adapter,2.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-04-08 00:00:00,Assigned,Cable Type C,2.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-04-08 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-04-09 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-04-09 00:00:00,Assigned,Paper Roll (Paymob),100.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-04-09 00:00:00,Assigned,Orange SIMS,10.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-04-09 00:00:00,Assigned,Orange SIMS,50.0,,Recycling,,,Alex,Delta,Egy
+2026-04-09 00:00:00,Received,Cable Type C,120.0,,,,,Alex,Delta,Egy
+2026-04-09 00:00:00,Received,BM Boxes,300.0,,,,,Alex,Delta,Egy
+2026-04-09 00:00:00,Received,Cable Type Micro,200.0,,,,,Alex,Delta,Egy
+2026-04-09 00:00:00,Received,Paper Roll (Paymob),1400.0,,,,,Alex,Delta,Egy
+2026-04-09 00:00:00,Received,Adapter,60.0,,,,,Alex,Delta,Egy
+2026-04-09 00:00:00,Received,Deploy Receipts,1000.0,,,,,Alex,Delta,Egy
+2026-04-09 00:00:00,Received,Cancellation Receipts,1000.0,,,,,Alex,Delta,Egy
+2026-04-14 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-04-14 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,93401 - 93450,Alex,Delta,Egy
+2026-04-14 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-04-14 00:00:00,Assigned,Orange SIMS,3.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-04-14 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-04-14 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-04-14 00:00:00,Assigned,Orange SIMS,4.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-04-15 00:00:00,Assigned,Deploy Receipts,50.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,93451 -  93500,Alex,Delta,Egy
+2026-04-15 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-04-15 00:00:00,Assigned,Orange SIMS,60.0,,Recycling,Cairo,,Alex,Delta,Egy
+2026-04-16 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,93501 - 93550,Alex,Delta,Egy
+2026-04-16 00:00:00,Assigned,Cable Type C,5.0,,Recycling,,,Alex,Delta,Egy
+2026-04-20 00:00:00,Assigned,Deploy Receipts,50.0,,Alex-Ops,Bahaa Basuony Mohamed Alsagheer,93551 - 93600,Alex,Delta,Egy
+2026-04-20 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-04-20 00:00:00,Assigned,Orange SIMS,3.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-04-20 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-04-20 00:00:00,Assigned,Adapter,3.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-04-20 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-04-20 00:00:00,Assigned,Cable Type C,1.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-04-20 00:00:00,Assigned,Cable Type Micro,1.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-04-21 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Ahmed Hatem Hassan Mahmoud,93601 -  93650,Alex,Delta,Egy
+2026-04-20 00:00:00,Assigned,Orange SIMS,60.0,,Recycling,,,Alex,Delta,Egy
+2026-04-21 00:00:00,Assigned,Adapter,2.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-04-21 00:00:00,Assigned,Cable Type Micro,1.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-04-21 00:00:00,Assigned,Cable Type C,1.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-04-21 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-04-21 00:00:00,Assigned,Orange SIMS,5.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-04-21 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-04-21 00:00:00,Assigned,Adapter,1.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-04-21 00:00:00,Assigned,Orange SIMS,3.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-04-21 00:00:00,Assigned,Orange SIMS,15.0,,Recycling,,,Alex,Delta,Egy
+2026-04-22 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-04-22 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,,Alex,Delta,Egy
+2026-04-22 00:00:00,Assigned,Orange SIMS,2.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-04-23 00:00:00,Assigned,Deploy Receipts,50.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,46451 - 46500,Alex,Delta,Egy
+2026-04-23 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-04-23 00:00:00,Assigned,Orange SIMS,6.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-04-27 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Yousef Fouad Ahmed Mohammed,93651 - 93700,Alex,Delta,Egy
+2026-04-27 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Moamen Farid Mohammed Helmy,93701 - 93750,Alex,Delta,Egy
+2026-04-27 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-04-27 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-04-27 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-04-27 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-04-27 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-04-27 00:00:00,Assigned,Adapter,4.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-04-27 00:00:00,Assigned,Orange SIMS,8.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-04-28 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-04-29 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-04-29 00:00:00,Assigned,Cable Type C,4.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-04-29 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-04-27 00:00:00,Received,Vodafone SIMS,200.0,,,,,Alex,Delta,Egy
+2026-04-29 00:00:00,Assigned,Vodafone SIMS,30.0,,Recycling,,,Alex,Delta,Egy
+2026-04-30 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-04-30 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-04-30 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Bahaa Basuony Mohamed Alsagheer,93751 - 93800,Alex,Delta,Egy
+2026-04-30 00:00:00,Assigned,Paper Roll (Paymob),80.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-04-30 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-05-03 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-05-04 00:00:00,Assigned,Vodafone SIMS,30.0,,Recycling,,,Alex,Delta,Egy
+2026-05-04 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-05-04 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-05-05 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Ahmed Hatem Hassan Mahmoud,93801 -  93850,Alex,Delta,Egy
+2026-05-05 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-05-05 00:00:00,Assigned,Deploy Receipts,50.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,54451 - 54500,Alex,Delta,Egy
+2026-05-05 00:00:00,Assigned,BM Boxes,40.0,,Recycling,,,Alex,Delta,Egy
+2026-05-05 00:00:00,Assigned,Cable Type C,37.0,,Recycling,,,Alex,Delta,Egy
+2026-05-05 00:00:00,Assigned,Paper Roll (Paymob),37.0,,Recycling,,,Alex,Delta,Egy
+2026-05-05 00:00:00,Assigned,Vodafone SIMS,20.0,,Recycling,,,Alex,Delta,Egy
+2026-05-06 00:00:00,Assigned,Deploy Receipts,50.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,54501 - 54550,Alex,Delta,Egy
+2026-05-06 00:00:00,Assigned,Paper Roll (Paymob),80.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-05-06 00:00:00,Assigned,Vodafone SIMS,5.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-05-06 00:00:00,Assigned,Adapter,3.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-05-06 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-05-06 00:00:00,Assigned,Paper Roll (Paymob),22.0,,Recycling,,,Alex,Delta,Egy
+2026-05-06 00:00:00,Assigned,BM Boxes,22.0,,Recycling,,,Alex,Delta,Egy
+2026-05-06 00:00:00,Assigned,Cable Type Micro,22.0,,Recycling,,,Alex,Delta,Egy
+2026-05-06 00:00:00,Assigned,Vodafone SIMS,12.0,,Recycling,,,Alex,Delta,Egy
+2026-05-11 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Moamen Farid Mohammed Helmy,94901 -  94950,Alex,Delta,Egy
+2026-05-11 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,94951 - 95000,Alex,Delta,Egy
+2026-05-11 00:00:00,Assigned,Deploy Receipts,50.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,54551 - 54600,Alex,Delta,Egy
+2026-05-12 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,95001 - 95050,Alex,Delta,Egy
+2026-05-12 00:00:00,Assigned,Paper Roll (Paymob),80.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,,Alex,Delta,Egy
+2026-05-12 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,95051 - 95100,Alex,Delta,Egy
+2026-05-12 00:00:00,Assigned,Deploy Receipts,50.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,54601 - 54650,Alex,Delta,Egy
+2026-05-12 00:00:00,Assigned,Vodafone SIMS,40.0,,Recycling,,,Alex,Delta,Egy
+2026-05-13 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,95101 - 95150,Alex,Delta,Egy
+2026-05-12 00:00:00,Received,BM Boxes,100.0,,,,,Alex,Delta,Egy
+2026-05-12 00:00:00,Received,Replacement Receipts ,1000.0,,,,,Alex,Delta,Egy
+2026-05-12 00:00:00,Received,Micro Cable,200.0,,,,,Alex,Delta,Egy
+2026-05-12 00:00:00,Received,Type.C Cable,100.0,,,,,Alex,Delta,Egy
+2026-05-12 00:00:00,Received,Adapter,60.0,,,,,Alex,Delta,Egy
+2026-05-14 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-05-14 00:00:00,Assigned,Paper Roll (Paymob),50.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-05-14 00:00:00,Assigned,Paper Roll (Paymob),50.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-05-14 00:00:00,Assigned,Paper Roll (Paymob),50.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-05-14 00:00:00,Assigned,Paper Roll (Paymob),50.0,,Alex-Ops,Khaled Mohamed Shaban Mohamed,,Alex,Delta,Egy
+2026-05-14 00:00:00,Assigned,Paper Roll (Paymob),50.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,,Alex,Delta,Egy
+2026-05-18 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Bahaa Basuony Mohamed Alsagheer,95201 - 95250,Alex,Delta,Egy
+2026-05-18 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Moamen Farid Mohammed Helmy,95251 - 95300,Alex,Delta,Egy
+2026-05-18 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-05-18 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-05-18 00:00:00,Assigned,Cable Type C,2.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-05-18 00:00:00,Assigned,Cable Type Micro,2.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-05-18 00:00:00,Assigned,Adapter,2.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-05-19 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Ahmed Hatem Hassan Mahmoud,95301-95350,Alex,Delta,Egy
+2026-05-19 00:00:00,Received,Vodafone SIMS,300.0,,,,,Alex,Delta,Egy
+2026-05-19 00:00:00,Assigned,Vodafone SIMS,25.0,,Recycling,,,Alex,Delta,Egy
+2026-06-08 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,95351 - 95400,Alex,Delta,Egy
+2026-05-20 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-05-20 00:00:00,Assigned,Vodafone SIMS,3.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-05-20 00:00:00,Assigned,Deploy Receipts,50.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,54701 - 54750,Alex,Delta,Egy
+2026-05-20 00:00:00,Assigned,Vodafone SIMS,100.0,,Transfer,North Coast,,Alex,Delta,Egy
+2026-05-20 00:00:00,Assigned,Adapter,5.0,,Transfer,North Coast,,Alex,Delta,Egy
+2026-05-20 00:00:00,Assigned,Paper Roll (Paymob),280.0,,Transfer,North Coast,,Alex,Delta,Egy
+2026-05-21 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-05-21 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-05-21 00:00:00,Assigned,Vodafone SIMS,2.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-05-13 01:00:00,Assigned,Deploy Receipts,50.0,,Transfer,North Coast,54651 - 54700,Alex,Delta,Egy
+2026-05-13 01:00:00,Assigned,Cancellation Receipts,50.0,,Transfer,North Coast,,Alex,Delta,Egy
+2026-05-13 01:00:00,Assigned,Cable Type Micro,20.0,,Transfer,North Coast,,Alex,Delta,Egy
+2026-05-13 01:00:00,Assigned,Cable Type C,15.0,,Transfer,North Coast,,Alex,Delta,Egy
+2026-05-13 01:00:00,Assigned,Adapter,15.0,,Transfer,North Coast,,Alex,Delta,Egy
+2026-05-13 01:00:00,Assigned,Paper Roll (Paymob),400.0,,Transfer,North Coast,,Alex,Delta,Egy
+2026-05-13 01:00:00,Assigned,Vodafone SIMS,45.0,,Transfer,North Coast,,Alex,Delta,Egy
+2026-05-21 01:00:00,Received,Paper Roll (Paymob),1400.0,,,,,Alex,Delta,Egy
+2026-05-21 01:00:00,Received,Cancellation Receipts,500.0,,,,,Alex,Delta,Egy
+2026-05-24 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-05-24 00:00:00,Assigned,Vodafone SIMS,3.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-05-24 00:00:00,Assigned,Paper Roll (Paymob),840.0,,Transfer,North Coast,,Alex,Delta,Egy
+2026-05-24 00:00:00,Assigned,Vodafone SIMS,50.0,,Transfer,North Coast,,Alex,Delta,Egy
+2026-05-24 00:00:00,Assigned,Deploy Receipts,50.0,,Transfer,North Coast,54751 - 54800,Alex,Delta,Egy
+2026-05-24 00:00:00,Assigned,Deploy Receipts,50.0,,Transfer,North Coast,54801 - 54850,Alex,Delta,Egy
+2026-05-24 01:00:00,Assigned,Adapter,65.0,,Transfer,North Coast,,Alex,Delta,Egy
+2026-05-25 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-05-25 00:00:00,Assigned,Paper Roll (Paymob),70.0,,Recycling,,,Alex,Delta,Egy
+2026-05-25 00:00:00,Assigned,Cable Type Micro,50.0,,Recycling,,,Alex,Delta,Egy
+2026-05-25 00:00:00,Assigned,BM Boxes,50.0,,Recycling,,,Alex,Delta,Egy
+2026-06-01 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-06-01 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,,Alex,Delta,Egy
+2026-06-01 00:00:00,Assigned,Adapter,2.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,,Alex,Delta,Egy
+2026-06-01 00:00:00,Assigned,Cable Type C,2.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,,Alex,Delta,Egy
+2026-06-01 00:00:00,Assigned,Paper Roll (Paymob),80.0,,Alex-Ops,Hesham Hassan Hassanin Hassan Moawad,,Alex,Delta,Egy
+2026-06-01 00:00:00,Assigned,Cable Type C,5.0,,Alex-Ops,Hesham Hassan Hassanin Hassan Moawad,,Alex,Delta,Egy
+2026-06-01 00:00:00,Assigned,Adapter,2.0,,Alex-Ops,Hesham Hassan Hassanin Hassan Moawad,,Alex,Delta,Egy
+2026-06-01 00:00:00,Assigned,Cash Receipts,50.0,,Alex-Ops,Hesham Hassan Hassanin Hassan Moawad,,Alex,Delta,Egy
+2026-06-01 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Hesham Hassan Hassanin Hassan Moawad,94401 - 94450,Alex,Delta,Egy
+2026-06-01 00:00:00,Assigned,Deploy Receipts,50.0,,Alex-Ops,Hesham Hassan Hassanin Hassan Moawad,54851 - 54900,Alex,Delta,Egy
+2026-06-01 00:00:00,Assigned,Replacement Receipts,50.0,,Alex-Ops,Hesham Hassan Hassanin Hassan Moawad,2101 - 2150,Alex,Delta,Egy
+2026-06-01 00:00:00,Assigned,Vodafone SIMS,15.0,,Alex-Ops,Hesham Hassan Hassanin Hassan Moawad,,Alex,Delta,Egy
+2026-06-02 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-06-02 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-06-03 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-06-03 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-06-03 00:00:00,Assigned,Cable Type Micro,50.0,,Recycling,,,Alex,Delta,Egy
+2026-06-03 00:00:00,Assigned,BM Boxes,50.0,,Recycling,,,Alex,Delta,Egy
+2026-06-03 00:00:00,Assigned,Paper Roll (Paymob),50.0,,Recycling,,,Alex,Delta,Egy
+2026-06-03 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-06-03 00:00:00,Assigned,Vodafone SIMS,150.0,,Transfer,North Coast,,Alex,Delta,Egy
+2026-06-03 00:00:00,Assigned,Cable Type C,10.0,,Transfer,North Coast,,Alex,Delta,Egy
+2026-06-03 00:00:00,Assigned,Cable Type Micro,20.0,,Transfer,North Coast,,Alex,Delta,Egy
+2026-06-03 00:00:00,Assigned,Paper Roll (Paymob),840.0,,Transfer,North Coast,,Alex,Delta,Egy
+2026-06-03 00:00:00,Assigned,Deploy Receipts,50.0,,Transfer,North Coast,54901 - 54950,Alex,Delta,Egy
+2026-06-03 00:00:00,Assigned,Deploy Receipts,50.0,,Transfer,North Coast,56201 -  56250,Alex,Delta,Egy
+2026-06-03 00:00:00,Assigned,Cancellation Receipts,50.0,,Transfer,North Coast,94451 - 94500,Alex,Delta,Egy
+2026-06-04 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-06-04 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,94501-94550,Alex,Delta,Egy
+2026-06-07 00:00:00,Received,Vodafone SIMS,300.0,,,,,Alex,Delta,Egy
+2026-06-08 00:00:00,Assigned,Vodafone SIMS,200.0,,Transfer,North Coast,,Alex,Delta,Egy
+2026-06-08 00:00:00,Assigned,Paper Roll (Paymob),560.0,,Transfer,North Coast,,Alex,Delta,Egy
+2026-06-08 00:00:00,Received,Cable Type Micro,150.0,,,,,Alex,Delta,Egy
+2026-06-08 00:00:00,Received,Adapter,150.0,,,,,Alex,Delta,Egy
+2026-06-08 00:00:00,Assigned,Vodafone SIMS,5.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-06-08 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-06-08 00:00:00,Assigned,Adapter,1.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-06-08 00:00:00,Assigned,Cable Type Micro,1.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-06-08 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-06-08 00:00:00,Assigned,Cable Type C,1.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-06-08 00:00:00,Assigned,Vodafone SIMS,2.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-06-08 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-06-08 00:00:00,Assigned,Vodafone SIMS,3.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-06-08 00:00:00,Assigned,Deploy Receipts,50.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,56251 -  56300,Alex,Delta,Egy
+2026-05-13 01:00:00,Assigned,Deploy Receipts,50.0,,North Coast-Ops,Mohamed Said Soliman Omar,54651 - 54700,Alex,Delta,Egy
+2026-05-13 01:00:00,Assigned,Cancellation Receipts,50.0,,North Coast-Ops,Mohamed Said Soliman Omar,,Alex,Delta,Egy
+2026-05-13 01:00:00,Assigned,Cable Type Micro,20.0,,North Coast-Ops,Mohamed Said Soliman Omar,,Alex,Delta,Egy
+2026-05-13 01:00:00,Assigned,Cable Type C,15.0,,North Coast-Ops,Mohamed Said Soliman Omar,,Alex,Delta,Egy
+2026-05-13 01:00:00,Assigned,Adapter,15.0,,North Coast-Ops,Mohamed Said Soliman Omar,,Alex,Delta,Egy
+2026-05-13 01:00:00,Assigned,Paper Roll (Paymob),400.0,,North Coast-Ops,Mohamed Said Soliman Omar,,Alex,Delta,Egy
+2026-05-13 01:00:00,Assigned,Vodafone SIMS,45.0,,North Coast-Ops,Mohamed Said Soliman Omar,,Alex,Delta,Egy
+2026-05-20 00:00:00,Assigned,Vodafone SIMS,100.0,,North Coast-Ops,Mohamed Said Soliman Omar,,Alex,Delta,Egy
+2026-05-20 00:00:00,Assigned,Adapter,5.0,,North Coast-Ops,Mohamed Said Soliman Omar,,Alex,Delta,Egy
+2026-05-20 00:00:00,Assigned,Paper Roll (Paymob),280.0,,North Coast-Ops,Mohamed Said Soliman Omar,,Alex,Delta,Egy
+2026-05-24 00:00:00,Assigned,Paper Roll (Paymob),840.0,,North Coast-Ops,Mohamed Said Soliman Omar,,Alex,Delta,Egy
+2026-05-24 00:00:00,Assigned,Vodafone SIMS,50.0,,North Coast-Ops,Mohamed Said Soliman Omar,,Alex,Delta,Egy
+2026-05-24 00:00:00,Assigned,Deploy Receipts,50.0,,North Coast-Ops,Mohamed Said Soliman Omar,54751 - 54800,Alex,Delta,Egy
+2026-05-24 00:00:00,Assigned,Deploy Receipts,50.0,,North Coast-Ops,Mohamed Said Soliman Omar,54801 - 54850,Alex,Delta,Egy
+2026-05-24 01:00:00,Assigned,Adapter,65.0,,North Coast-Ops,Mohamed Said Soliman Omar,,Alex,Delta,Egy
+2026-06-03 00:00:00,Assigned,Vodafone SIMS,150.0,,North Coast-Ops,Mohamed Said Soliman Omar,,Alex,Delta,Egy
+2026-06-03 00:00:00,Assigned,Cable Type C,10.0,,North Coast-Ops,Mohamed Said Soliman Omar,,Alex,Delta,Egy
+2026-06-03 00:00:00,Assigned,Cable Type Micro,20.0,,North Coast-Ops,Mohamed Said Soliman Omar,,Alex,Delta,Egy
+2026-06-03 00:00:00,Assigned,Paper Roll (Paymob),840.0,,North Coast-Ops,Mohamed Said Soliman Omar,,Alex,Delta,Egy
+2026-06-03 00:00:00,Assigned,Deploy Receipts,50.0,,North Coast-Ops,Mohamed Said Soliman Omar,54901 - 54950,Alex,Delta,Egy
+2026-06-03 00:00:00,Assigned,Deploy Receipts,50.0,,North Coast-Ops,Mohamed Said Soliman Omar,56201 -  56250,Alex,Delta,Egy
+2026-06-03 00:00:00,Assigned,Cancellation Receipts,50.0,,North Coast-Ops,Mohamed Said Soliman Omar,94451 - 94500,Alex,Delta,Egy
+2026-06-08 00:00:00,Received,Paper Roll (Paymob),2800.0,,,,,Alex,Delta,Egy
+2026-06-08 00:00:00,Assigned,Vodafone SIMS,150.0,,North Coast-Ops,Mohamed Said Soliman Omar,,Alex,Delta,Egy
+2026-06-08 00:00:00,Assigned,Paper Roll (Paymob),560.0,,North Coast-Ops,Mohamed Said Soliman Omar,,Alex,Delta,Egy
+2026-06-09 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Recycling,,,Alex,Delta,Egy
+2026-06-09 00:00:00,Assigned,Cable Type C,20.0,,Recycling,,,Alex,Delta,Egy
+2026-06-09 00:00:00,Assigned,BM Boxes,20.0,,Recycling,,,Alex,Delta,Egy
+2026-06-10 00:00:00,Assigned,Cable Type C,2.0,,Alex-Ops,Mohamed Said Soliman Omar,,Alex,Delta,Egy
+2026-06-10 00:00:00,Assigned,Adapter,2.0,,Alex-Ops,Mohamed Said Soliman Omar,,Alex,Delta,Egy
+2026-06-10 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-06-10 00:00:00,Assigned,Paper Roll (Paymob),280.0,,Alex-Ops,Mohamed Said Soliman Omar,,Alex,Delta,Egy
+2026-06-10 00:00:00,Assigned,Vodafone SIMS,55.0,,Alex-Ops,Mohamed Said Soliman Omar,,Alex,Delta,Egy
+2026-06-10 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-06-11 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Bahaa Basuony Mohamed Alsagheer,94551-94600,Alex,Delta,Egy
+2026-06-11 00:00:00,Assigned,Adapter,2.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-06-11 00:00:00,Assigned,Cable Type Micro,1.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-06-11 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-06-11 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-06-15 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Ahmed Hatem Hassan Mahmoud,94601-94650,Alex,Delta,Egy
+2026-06-15 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-06-15 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-06-15 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-06-15 00:00:00,Assigned,Vodafone SIMS,2.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-06-15 00:00:00,Received,Paper Roll (Paymob),2800.0,,,,,Alex,Delta,Egy
+2026-06-15 00:00:00,Received,BM Boxes,400.0,,,,,Alex,Delta,Egy
+2026-06-15 00:00:00,Received,Cable Type Micro,300.0,,,,,Alex,Delta,Egy
+2026-06-15 00:00:00,Received,Cable Type C,200.0,,,,,Alex,Delta,Egy
+2026-06-15 00:00:00,Received,Adapter,100.0,,,,,Alex,Delta,Egy
+2026-06-15 00:00:00,Received,Vodafone SIMS,100.0,,,,,Alex,Delta,Egy
+2026-06-15 00:00:00,Received,Orange SIMS,200.0,,,,,Alex,Delta,Egy
+2026-06-15 00:00:00,Received,Branded POS Stickers,900.0,,,,,Alex,Delta,Egy
+2026-06-16 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,,,Alex,Delta,Egy
+2026-06-17 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Recycling,,,Alex,Delta,Egy
+2026-06-17 00:00:00,Assigned,Cable Type Micro,20.0,,Recycling,,,Alex,Delta,Egy
+2026-06-17 00:00:00,Assigned,BM Boxes,20.0,,Recycling,,,Alex,Delta,Egy
+2026-06-17 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-06-17 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-06-22 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-06-22 00:00:00,Assigned,Vodafone SIMS,6.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-06-22 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-06-22 00:00:00,Assigned,Cable Type C,2.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-06-22 00:00:00,Assigned,Vodafone SIMS,3.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-06-22 00:00:00,Assigned,Orange SIMS,4.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-06-22 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-06-22 00:00:00,Assigned,Cable Type C,1.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-06-22 00:00:00,Assigned,Cable Type Micro,3.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-06-22 00:00:00,Assigned,Adapter,2.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-06-22 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,94701 -  94750,Alex,Delta,Egy
+2026-06-22 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Hesham Hassan Hassanin Hassan Moawad,,Alex,Delta,Egy
+2026-06-22 00:00:00,Assigned,Adapter,2.0,,Alex-Ops,Hesham Hassan Hassanin Hassan Moawad,,Alex,Delta,Egy
+2026-06-22 00:00:00,Assigned,Cable Type C,1.0,,Alex-Ops,Hesham Hassan Hassanin Hassan Moawad,,Alex,Delta,Egy
+2026-06-22 00:00:00,Assigned,Cable Type Micro,2.0,,Alex-Ops,Hesham Hassan Hassanin Hassan Moawad,,Alex,Delta,Egy
+2026-06-22 00:00:00,Assigned,Orange SIMS,5.0,,Alex-Ops,Hesham Hassan Hassanin Hassan Moawad,,Alex,Delta,Egy
+2026-06-22 00:00:00,Assigned,Vodafone SIMS,5.0,,Alex-Ops,Hesham Hassan Hassanin Hassan Moawad,,Alex,Delta,Egy
+2026-06-23 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-06-23 00:00:00,Assigned,Adapter,1.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-06-23 00:00:00,Assigned,Cable Type Micro,6.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-06-23 00:00:00,Assigned,Cable Type C,20.0,,Recycling,,,Alex,Delta,Egy
+2026-06-23 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Recycling,,,Alex,Delta,Egy
+2026-06-23 00:00:00,Assigned,BM Boxes,20.0,,Recycling,,,Alex,Delta,Egy
+2026-06-24 00:00:00,Assigned,BM Boxes,25.0,,Recycling,,,Alex,Delta,Egy
+2026-06-24 00:00:00,Assigned,Cable Type C,2.0,,Recycling,,,Alex,Delta,Egy
+2026-06-24 00:00:00,Assigned,Cable Type Micro,25.0,,Recycling,,,Alex,Delta,Egy
+2026-06-24 00:00:00,Assigned,Adapter,1.0,,Recycling,,,Alex,Delta,Egy
+2026-06-24 00:00:00,Assigned,Paper Roll (Paymob),25.0,,Recycling,,,Alex,Delta,Egy
+2026-06-24 00:00:00,Assigned,Deploy Receipts,50.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,65301--65350,Alex,Delta,Egy
+2026-06-24 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-06-24 00:00:00,Assigned,Orange SIMS,3.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-06-24 00:00:00,Assigned,Vodafone SIMS,3.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-06-25 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-06-25 00:00:00,Assigned,Adapter,2.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-06-29 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-06-29 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-06-29 00:00:00,Assigned,Paper Roll (Paymob),80.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,,Alex,Delta,Egy
+2026-06-29 00:00:00,Assigned,Vodafone SIMS,10.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,,Alex,Delta,Egy
+2026-06-29 00:00:00,Assigned,Cable Type C,2.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,,Alex,Delta,Egy
+2026-06-29 00:00:00,Assigned,Cable Type Micro,2.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,,Alex,Delta,Egy
+2026-06-29 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-06-29 00:00:00,Assigned,Deploy Receipts,50.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,56351-56400,Alex,Delta,Egy
+2026-06-29 00:00:00,Assigned,Cancellation Receipts,40.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,95260-95300,Alex,Delta,Egy
+2026-06-29 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Hesham Hassan Hassanin Hassan Moawad,,Alex,Delta,Egy
+2026-06-29 00:00:00,Assigned,Vodafone SIMS,3.0,,Recycling,,,Alex,Delta,Egy
+2026-06-29 00:00:00,Assigned,Orange SIMS,4.0,,Recycling,,,Alex,Delta,Egy
+2026-06-29 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Recycling,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-06-30 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Ahmed Hatem Hassan Mahmoud,94651 - 94700,Alex,Delta,Egy
+2026-06-30 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-06-30 00:00:00,Assigned,Cable Type Micro,2.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-06-30 00:00:00,Assigned,Cable Type C,1.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-07-01 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Bahaa Basuony Mohamed Alsagheer,94751--94800,Alex,Delta,Egy
+2026-07-01 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-07-01 00:00:00,Assigned,Deploy Receipts,50.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,56401-56450,Alex,Delta,Egy
+2026-07-01 00:00:00,Assigned,Orange SIMS,6.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-07-01 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-07-01 00:00:00,Assigned,Orange SIMS,3.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-07-06 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Mohamed Khaled Elsayed Ibrahim,94801 - 94850,Alex,Delta,Egy
+2026-07-06 00:00:00,Assigned,Orange SIMS,3.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-07-06 00:00:00,Assigned,Vodafone SIMS,3.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-07-06 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-07-06 00:00:00,Assigned,Adapter,2.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-07-06 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-07-06 00:00:00,Assigned,Paper Roll (Paymob),100.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-07-06 00:00:00,Assigned,Adapter,1.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-07-06 00:00:00,Assigned,Vodafone SIMS,2.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-07-06 00:00:00,Assigned,Orange SIMS,2.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-07-06 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-07-07 00:00:00,Assigned,Paper Roll (Paymob),100.0,,Alex-Ops,Hesham Hassan Hassanin Hassan Moawad,,Alex,Delta,Egy
+2026-07-07 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,,Alex,Delta,Egy
+2026-07-07 00:00:00,Assigned,Orange SIMS,4.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,,Alex,Delta,Egy
+2026-07-07 00:00:00,Assigned,Vodafone SIMS,6.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,,Alex,Delta,Egy
+2026-07-07 00:00:00,Assigned,BM Boxes,75.0,,Recycling,,,Alex,Delta,Egy
+2026-07-07 00:00:00,Assigned,Cable Type Micro,55.0,,Recycling,,,Alex,Delta,Egy
+2026-07-07 00:00:00,Assigned,Cable Type C,7.0,,Recycling,,,Alex,Delta,Egy
+2026-07-07 00:00:00,Assigned,Paper Roll (Paymob),75.0,,Recycling,,,Alex,Delta,Egy
+2026-07-08 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-07-08 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-07-08 00:00:00,Assigned,Orange SIMS,3.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-07-09 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Asmaa Ramadan Mohamed Mahmoud,94851 - 94857,Alex,Delta,Egy
+2026-07-09 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-07-09 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-07-09 00:00:00,Assigned,Orange SIMS,2.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-07-09 00:00:00,Assigned,Vodafone SIMS,2.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-07-09 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-07-13 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-07-13 00:00:00,Assigned,Vodafone SIMS,3.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-07-13 00:00:00,Assigned,Adapter,3.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-07-13 00:00:00,Assigned,Cable Type C,2.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-07-13 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-07-14 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Ahmed Hatem Hassan Mahmoud,99751-99800,Alex,Delta,Egy
+2026-07-14 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-07-14 00:00:00,Assigned,Adapter,3.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-07-14 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-07-14 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,,Alex,Delta,Egy
+2026-07-14 00:00:00,Assigned,Vodafone SIMS,10.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,,Alex,Delta,Egy
+2026-07-14 00:00:00,Assigned,Deploy Receipts,50.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,56451-56500,Alex,Delta,Egy
+2026-07-14 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,99401-99450,Alex,Delta,Egy
+2026-07-15 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-07-15 00:00:00,Assigned,Cable Type C,30.0,,Recycling,,,Alex,Delta,Egy
+2026-07-15 00:00:00,Assigned,Paper Roll (Paymob),30.0,,Recycling,,,Alex,Delta,Egy
+2026-07-15 00:00:00,Assigned,BM Boxes,30.0,,Recycling,,,Alex,Delta,Egy
+2026-07-15 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-07-15 00:00:00,Assigned,Adapter,1.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-07-15 00:00:00,Assigned,Cable Type C,1.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-07-15 00:00:00,Assigned,Vodafone SIMS,3.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-07-15 00:00:00,Assigned,Orange SIMS,3.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-07-15 00:00:00,Assigned,Deploy Receipts,50.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,56501-56550,Alex,Delta,Egy
+2026-07-16 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Sherief Mohsen Ali Abd Ellatef,99451 - 99500,Alex,Delta,Egy
+2026-07-16 00:00:00,Assigned,Adapter,2.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-07-16 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-07-16 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-07-16 00:00:00,Assigned,Vodafone SIMS,5.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-07-16 00:00:00,Assigned,Orange SIMS,5.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-07-16 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-07-20 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Bahaa Basuony Mohamed Alsagheer,99501 - 99550,Alex,Delta,Egy
+2026-07-20 00:00:00,Assigned,Cancellation Receipts,49.0,,Alex-Ops,Mohamed Khaled Elsayed Ibrahim,99453 - 99500,Alex,Delta,Egy
+2026-07-20 00:00:00,Assigned,Orange SIMS,3.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-07-20 00:00:00,Assigned,Vodafone SIMS,3.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-07-20 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-07-20 00:00:00,Assigned,Adapter,1.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-07-20 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-07-20 00:00:00,Assigned,Adapter,3.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-07-22 00:00:00,Assigned,Paper Roll (Paymob),80.0,,Alex-Ops,Hesham Hassan Hassanin Hassan Moawad,,Alex,Delta,Egy
+2026-07-22 00:00:00,Assigned,Recycle Adapter,2.0,,Alex-Ops,Hesham Hassan Hassanin Hassan Moawad,,Alex,Delta,Egy
+2026-07-22 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-07-22 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-07-22 00:00:00,Assigned,Adapter,3.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-07-22 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-07-22 00:00:00,Assigned,Orange SIMS,3.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-07-22 00:00:00,Received,Orange SIMS,50.0,,,,,Alex,Delta,Egy
+2026-07-22 00:00:00,Received,WE SIMS,50.0,,,,,Alex,Delta,Egy
+2026-07-22 00:00:00,Received,Cancellation Receipts,1500.0,,,,,Alex,Delta,Egy
+2026-07-22 00:00:00,Received,Cable Type Micro,200.0,,,,,Alex,Delta,Egy
+2026-07-22 00:00:00,Received,Cable Type C,100.0,,,,,Alex,Delta,Egy
+2026-07-22 00:00:00,Received,Vodafone SIMS,100.0,,,,,Alex,Delta,Egy
+2026-07-22 00:00:00,Received,Paper Roll (Paymob),1120.0,,,,,Alex,Delta,Egy
+2026-07-22 00:00:00,Received,Branded POS Stickers,800.0,,,,,Alex,Delta,Egy
+2026-07-27 00:00:00,Assigned,Cable Type Micro,1.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-07-27 00:00:00,Assigned,Orange SIMS,2.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-07-27 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-07-27 00:00:00,Assigned,Orange SIMS,2.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-07-27 00:00:00,Assigned,Vodafone SIMS,2.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-07-27 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-07-27 00:00:00,Assigned,Orange SIMS,5.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-07-27 00:00:00,Assigned,Deploy Receipts,50.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,56551 - 56600,Alex,Delta,Egy
+2026-07-27 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-07-27 00:00:00,Assigned,Orange SIMS,10.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-07-27 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-07-27 00:00:00,Assigned,Adapter,2.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-07-27 00:00:00,Assigned,Orange SIMS,5.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-07-28 00:00:00,Assigned,BM Boxes,22.0,,Recycling,,,Alex,Delta,Egy
+2026-07-28 00:00:00,Assigned,Cable Type C,12.0,,Recycling,,,Alex,Delta,Egy
+2026-07-28 00:00:00,Assigned,Cable Type Micro,20.0,,Recycling,,,Alex,Delta,Egy
+2026-07-28 00:00:00,Assigned,Adapter,10.0,,Recycling,,,Alex,Delta,Egy
+2026-07-28 00:00:00,Assigned,Paper Roll (Paymob),30.0,,Recycling,,,Alex,Delta,Egy
+2026-07-29 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-07-29 00:00:00,Assigned,WE SIMS,3.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-07-29 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-07-29 00:00:00,Assigned,Orange SIMS,3.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-07-30 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-07-30 00:00:00,Assigned,BM Boxes,25.0,,Recycling,,,Alex,Delta,Egy
+2026-07-30 00:00:00,Assigned,Paper Roll (Paymob),25.0,,Recycling,,,Alex,Delta,Egy
+2026-07-30 00:00:00,Assigned,Cable Type Micro,13.0,,Recycling,,,Alex,Delta,Egy
+2026-07-30 00:00:00,Assigned,Cable Type C,12.0,,Recycling,,,Alex,Delta,Egy
+2026-08-02 00:00:00,Assigned,BM Boxes,35.0,,Recycling,,,Alex,Delta,Egy
+2026-08-02 00:00:00,Assigned,Cable Type Micro,20.0,,Recycling,,,Alex,Delta,Egy
+2026-08-02 00:00:00,Assigned,Cable Type C,15.0,,Recycling,,,Alex,Delta,Egy
+2026-08-02 00:00:00,Assigned,Paper Roll (Paymob),35.0,,Recycling,,,Alex,Delta,Egy
+2026-08-03 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Ahmed Hatem Hassan Mahmoud,99551 -  99600,Alex,Delta,Egy
+2026-08-03 00:00:00,Assigned,Paper Roll (Paymob),90.0,,Alex-Ops,Hesham Hassan Hassanin Hassan Moawad,,Alex,Delta,Egy
+2026-08-03 00:00:00,Assigned,Cable Type Micro,2.0,,Alex-Ops,Hesham Hassan Hassanin Hassan Moawad,,Alex,Delta,Egy
+2026-08-03 00:00:00,Assigned,Adapter,2.0,,Alex-Ops,Hesham Hassan Hassanin Hassan Moawad,,Alex,Delta,Egy
+2026-08-03 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Hesham Hassan Hassanin Hassan Moawad,99601 - 99650,Alex,Delta,Egy
+2026-08-03 00:00:00,Assigned,Cable Type C,1.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-08-03 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-08-03 00:00:00,Assigned,Orange SIMS,2.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-08-03 00:00:00,Assigned,Orange SIMS,2.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-08-03 00:00:00,Assigned,Paper Roll (Paymob),45.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-08-03 00:00:00,Assigned,Adapter,2.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-08-03 00:00:00,Assigned,Cable Type Micro,1.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-08-03 00:00:00,Assigned,Cable Type C,1.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-08-03 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,,Alex,Delta,Egy
+2026-08-03 00:00:00,Assigned,Adapter,2.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,,Alex,Delta,Egy
+2026-08-04 00:00:00,Assigned,Cable Type C,12.0,,Recycling,,,Alex,Delta,Egy
+2026-08-04 00:00:00,Assigned,Cable Type Micro,15.0,,Recycling,,,Alex,Delta,Egy
+2026-08-04 00:00:00,Assigned,BM Boxes,27.0,,Recycling,,,Alex,Delta,Egy
+2026-08-04 00:00:00,Assigned,Paper Roll (Paymob),27.0,,Recycling,,,Alex,Delta,Egy
+2026-08-04 00:00:00,Assigned,Paper Roll (Paymob),500.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-08-04 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-08-05 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Recycling,,,Alex,Delta,Egy
+2026-08-05 00:00:00,Assigned,Cable Type C,20.0,,Recycling,,,Alex,Delta,Egy
+2026-08-05 00:00:00,Assigned,Cable Type Micro,20.0,,Recycling,,,Alex,Delta,Egy
+2026-08-05 00:00:00,Assigned,BM Boxes,40.0,,Recycling,,,Alex,Delta,Egy
+2026-08-05 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-08-05 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-08-05 00:00:00,Assigned,Orange SIMS,3.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-08-05 00:00:00,Assigned,Orange SIMS,1.0,,Alex-Ops,Gehad Ahmed Ali Abdel Moaty,,Alex,Delta,Egy
+2026-08-06 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-08-06 00:00:00,Assigned,Cable Type Micro,2.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-08-06 00:00:00,Assigned,Cable Type Micro,20.0,,Recycling,,,Alex,Delta,Egy
+2026-08-06 00:00:00,Assigned,BM Boxes,20.0,,Recycling,,,Alex,Delta,Egy
+2026-08-06 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Recycling,,,Alex,Delta,Egy
+2026-08-10 00:00:00,Assigned,Orange SIMS,5.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-08-10 00:00:00,Assigned,Orange SIMS,3.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-08-10 00:00:00,Assigned,Vodafone SIMS,2.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-08-10 00:00:00,Assigned,Paper Roll (Paymob),100.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-08-10 00:00:00,Assigned,Paper Roll (Paymob),22.0,,Recycling,,,Alex,Delta,Egy
+2026-08-10 00:00:00,Assigned,BM Boxes,22.0,,Recycling,,,Alex,Delta,Egy
+2026-08-10 00:00:00,Assigned,Cable Type C,2.0,,Recycling,,,Alex,Delta,Egy
+2026-08-10 00:00:00,Assigned,Cable Type Micro,20.0,,Recycling,,,Alex,Delta,Egy
+2026-08-10 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-08-10 00:00:00,Assigned,Orange SIMS,3.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-08-11 00:00:00,Assigned,Paper Roll (Paymob),120.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-08-12 00:00:00,Assigned,Paper Roll (Paymob),100.0,,Alex-Ops,Hesham Hassan Hassanin Hassan Moawad,,Alex,Delta,Egy
+2026-08-12 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-08-12 00:00:00,Assigned,Paper Roll (Paymob),10.0,,Recycling,,,Alex,Delta,Egy
+2026-08-12 00:00:00,Assigned,BM Boxes,10.0,,Recycling,,,Alex,Delta,Egy
+2026-08-12 00:00:00,Assigned,Cable Type Micro,10.0,,Recycling,,,Alex,Delta,Egy
+2026-01-29 00:00:00,Assigned,Branded POS Stickers,330.0,,Recycling,,,Alex,Delta,Egy
+2026-02-26 00:00:00,Assigned,Branded POS Stickers,467.0,,Recycling,,,Alex,Delta,Egy
+2026-03-31 00:00:00,Assigned,Branded POS Stickers,391.0,,Recycling,,,Alex,Delta,Egy
+2026-04-30 01:00:00,Assigned,Branded POS Stickers,461.0,,Recycling,,,Alex,Delta,Egy
+2026-04-30 01:00:00,Assigned,Branded POS Stickers,348.0,,Recycling,,,Alex,Delta,Egy
+2026-05-28 01:00:00,Assigned,Branded POS Stickers,194.0,,Recycling,,,Alex,Delta,Egy
+2026-06-30 00:00:00,Assigned,Branded POS Stickers,194.0,,Recycling,,,Alex,Delta,Egy
+2026-07-30 00:00:00,Assigned,Branded POS Stickers,275.0,,Recycling,,,Alex,Delta,Egy
+2026-08-13 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-08-13 00:00:00,Assigned,Deploy Receipts,50.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,56601 - 56650,Alex,Delta,Egy
+2026-08-13 00:00:00,Assigned,Paper Roll (Paymob),33.0,,Recycling,,,Alex,Delta,Egy
+2026-08-13 00:00:00,Assigned,BM Boxes,33.0,,Recycling,,,Alex,Delta,Egy
+2026-08-13 00:00:00,Assigned,Branded POS Stickers,56.0,,Recycling,,,Alex,Delta,Egy
+2026-08-13 00:00:00,Assigned,Cable Type Micro,22.0,,Recycling,,,Alex,Delta,Egy
+2026-08-13 00:00:00,Assigned,Cable Type C,11.0,,Recycling,,,Alex,Delta,Egy
+2026-08-13 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-08-13 00:00:00,Assigned,Vodafone SIMS,6.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-08-13 00:00:00,Assigned,Deploy Receipts,50.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,56651 - 56700,Alex,Delta,Egy
+2026-08-16 00:00:00,Assigned,Adapter,2.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-08-16 00:00:00,Assigned,Cable Type C,1.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-08-16 00:00:00,Assigned,Cable Type Micro,1.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-08-17 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,,Ahmed Ashraf   99651 - 99700,Alex,Delta,Egy
+2026-08-17 00:00:00,Assigned,Deploy Receipts,50.0,,Alex-Ops,,Ahmed Ashraf  55701 - 55750,Alex,Delta,Egy
+2026-08-17 00:00:00,Assigned,Cancellation Receipts,43.0,,Alex-Ops,Bahaa Basuony Mohamed Alsagheer,94858 - 94900,Alex,Delta,Egy
+2026-08-17 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-08-17 00:00:00,Assigned,Cable Type Micro,2.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-08-17 00:00:00,Assigned,Adapter,1.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-08-17 00:00:00,Assigned,BM Boxes,20.0,,Recycling,,,Alex,Delta,Egy
+2026-08-17 00:00:00,Assigned,Cable Type Micro,20.0,,Recycling,,,Alex,Delta,Egy
+2026-08-17 00:00:00,Assigned,Branded POS Stickers,20.0,,Recycling,,,Alex,Delta,Egy
+2026-08-17 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Recycling,,,Alex,Delta,Egy
+2026-08-17 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-08-17 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,99851 - 99900,Alex,Delta,Egy
+2026-08-17 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-08-17 00:00:00,Assigned,Vodafone SIMS,10.0,,Recycling,,,Alex,Delta,Egy
+2026-08-17 00:00:00,Assigned,Orange SIMS,2.0,,Recycling,,,Alex,Delta,Egy
+2026-08-17 00:00:00,Assigned,Vodafone SIMS,2.0,,Recycling,,,Alex,Delta,Egy
+2026-08-17 00:00:00,Assigned,Orange SIMS,2.0,,Recycling,,,Alex,Delta,Egy
+2026-08-17 00:00:00,Received,WE SIM Card,30.0,,,,,Alex,Delta,Egy
+2026-08-17 00:00:00,Received,Vodafone SIM Card,40.0,,,,,Alex,Delta,Egy
+2026-08-17 00:00:00,Received,Etisalat SIM Card,30.0,,,,,Alex,Delta,Egy
+2026-08-17 00:00:00,Received,Paper Roll (Paymob),2800.0,,,,,Alex,Delta,Egy
+2026-08-17 00:00:00,Received,Adapter,50.0,,,,,Alex,Delta,Egy
+2026-08-17 00:00:00,Received,Micro Cable,300.0,,,,,Alex,Delta,Egy
+2026-08-17 00:00:00,Received,Type.C Cable,70.0,,,,,Alex,Delta,Egy
+2026-08-17 00:00:00,Received,Deploy Receipts,500.0,,,,,Alex,Delta,Egy
+2026-08-18 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-08-18 00:00:00,Assigned,Cable Type Micro,5.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-08-18 00:00:00,Assigned,Orange SIMS,4.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-08-18 00:00:00,Assigned,Vodafone SIMS,2.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-08-18 00:00:00,Assigned,Paper Roll (Paymob),31.0,,Recycling,,,Alex,Delta,Egy
+2026-08-18 00:00:00,Assigned,Cable Type C,10.0,,Recycling,,,Alex,Delta,Egy
+2026-08-18 00:00:00,Assigned,Cable Type Micro,21.0,,Recycling,,,Alex,Delta,Egy
+2026-08-18 00:00:00,Assigned,BM Boxes,31.0,,Recycling,,,Alex,Delta,Egy
+2026-08-18 00:00:00,Assigned,Branded POS Stickers,31.0,,Recycling,,,Alex,Delta,Egy
+2026-08-18 00:00:00,Assigned,Orange SIMS,2.0,,Alex-Sales,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-08-19 00:00:00,Assigned,BM Boxes,20.0,,Recycling,,,Alex,Delta,Egy
+2026-08-19 00:00:00,Assigned,Adapter,1.0,,Recycling,,,Alex,Delta,Egy
+2026-08-19 00:00:00,Assigned,Cable Type C,1.0,,Recycling,,,Alex,Delta,Egy
+2026-08-19 00:00:00,Assigned,Cable Type Micro,25.0,,Recycling,,,Alex,Delta,Egy
+2026-08-19 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Recycling,,,Alex,Delta,Egy
+2026-08-19 00:00:00,Assigned,Branded POS Stickers,20.0,,Recycling,,,Alex,Delta,Egy
+2026-08-19 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-08-19 00:00:00,Assigned,Adapter,3.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-08-19 00:00:00,Assigned,Cable Type C,2.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-08-20 00:00:00,Assigned,Deploy Receipts,100.0,,Qena-Ops,Qena,99701 -  99850,Alex,Delta,Egy
+2026-08-20 00:00:00,Assigned,Deploy Receipts,100.0,,Sohag-Ops,Sohag,104851 - 104950,Alex,Delta,Egy
+2026-08-20 00:00:00,Assigned,Branded POS Stickers,42.0,,Recycling,,,Alex,Delta,Egy
+2026-08-20 00:00:00,Assigned,Paper Roll (Paymob),42.0,,Recycling,,,Alex,Delta,Egy
+2026-08-20 00:00:00,Assigned,Cable Type C,42.0,,Recycling,,,Alex,Delta,Egy
+2026-08-20 00:00:00,Assigned,BM Boxes,42.0,,Recycling,,,Alex,Delta,Egy
+2026-08-20 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-08-24 00:00:00,Assigned,Adapter,2.0,,Alex-Ops,Hesham Hassan Hassanin Hassan Moawad,,Alex,Delta,Egy
+2026-08-24 00:00:00,Assigned,Cable Type Micro,2.0,,Alex-Ops,Hesham Hassan Hassanin Hassan Moawad,,Alex,Delta,Egy
+2026-08-24 00:00:00,Assigned,Vodafone SIMS,6.0,,Alex-Ops,Hesham Hassan Hassanin Hassan Moawad,,Alex,Delta,Egy
+2026-08-24 00:00:00,Assigned,WE SIMS,4.0,,Alex-Ops,Hesham Hassan Hassanin Hassan Moawad,,Alex,Delta,Egy
+2026-08-24 00:00:00,Assigned,Adapter,3.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-08-24 00:00:00,Assigned,Cable Type Micro,2.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-08-24 00:00:00,Assigned,Cable Type C,1.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-08-24 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-08-24 00:00:00,Assigned,Orange SIMS,5.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-08-24 00:00:00,Assigned,Etisalat SIMS,1.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-08-24 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-08-24 00:00:00,Assigned,Orange SIMS,3.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-08-24 00:00:00,Assigned,Etisalat SIMS,2.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-08-24 00:00:00,Assigned,Adapter,5.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,,Alex,Delta,Egy
+2026-08-24 00:00:00,Assigned,WE SIMS,2.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,,Alex,Delta,Egy
+2026-08-24 00:00:00,Assigned,Etisalat SIMS,8.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,,Alex,Delta,Egy
+2026-08-24 00:00:00,Assigned,Paper Roll (Paymob),80.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-08-24 00:00:00,Assigned,Cable Type C,1.0,,Recycling,,,Alex,Delta,Egy
+2026-08-24 00:00:00,Assigned,Adapter,1.0,,Recycling,,,Alex,Delta,Egy
+2026-08-24 00:00:00,Assigned,WE SIMS,2.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-08-24 00:00:00,Assigned,Orange SIMS,2.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-08-24 00:00:00,Assigned,Etisalat SIMS,1.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-08-25 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-08-25 00:00:00,Assigned,Branded POS Stickers,30.0,,Recycling,,,Alex,Delta,Egy
+2026-08-25 00:00:00,Assigned,Paper Roll (Paymob),30.0,,Recycling,,,Alex,Delta,Egy
+2026-08-25 00:00:00,Assigned,Cable Type C,10.0,,Recycling,,,Alex,Delta,Egy
+2026-08-25 00:00:00,Assigned,BM Boxes,30.0,,Recycling,,,Alex,Delta,Egy
+2026-08-25 00:00:00,Assigned,Cable Type Micro,20.0,,Recycling,,,Alex,Delta,Egy
+2026-08-26 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-08-26 00:00:00,Assigned,Paper Roll (Paymob),30.0,,Recycling,,,Alex,Delta,Egy
+2026-08-26 00:00:00,Assigned,Branded POS Stickers,30.0,,Recycling,,,Alex,Delta,Egy
+2026-08-26 00:00:00,Assigned,Cable Type Micro,31.0,,Recycling,,,Alex,Delta,Egy
+2026-08-26 00:00:00,Assigned,BM Boxes,30.0,,Recycling,,,Alex,Delta,Egy
+2026-08-31 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-08-31 00:00:00,Assigned,Etisalat SIMS,2.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-08-31 00:00:00,Assigned,Orange SIMS,3.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-08-31 00:00:00,Assigned,WE SIMS,3.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-08-31 00:00:00,Assigned,Adapter,3.0,,Recycling,,,Alex,Delta,Egy
+2026-08-31 00:00:00,Assigned,Cable Type C,5.0,,Recycling,,,Alex,Delta,Egy
+2026-08-31 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-08-31 00:00:00,Assigned,Adapter,4.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-08-31 00:00:00,Assigned,Cable Type C,1.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-08-31 00:00:00,Assigned,Cable Type Micro,1.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-08-31 00:00:00,Assigned,Paper Roll (Paymob),35.0,,Recycling,,,Alex,Delta,Egy
+2026-08-31 00:00:00,Assigned,Branded POS Stickers,35.0,,Recycling,,,Alex,Delta,Egy
+2026-08-31 00:00:00,Assigned,Cable Type Micro,35.0,,Recycling,,,Alex,Delta,Egy
+2026-08-31 00:00:00,Assigned,BM Boxes,35.0,,Recycling,,,Alex,Delta,Egy
+2026-08-31 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-08-31 00:00:00,Assigned,WE SIMS,2.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-08-31 00:00:00,Assigned,Etisalat SIMS,2.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-08-31 00:00:00,Assigned,Orange SIMS,2.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-09-01 00:00:00,Assigned,Etisalat SIMS,2.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-09-01 00:00:00,Assigned,Vodafone SIMS,2.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-09-01 00:00:00,Assigned,WE SIMS,1.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-09-01 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-09-01 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,104801-104850,Alex,Delta,Egy
+2026-09-01 00:00:00,Assigned,Orange SIMS,3.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-09-02 00:00:00,Assigned,WE SIMS,2.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,,Alex,Delta,Egy
+2026-09-02 00:00:00,Assigned,Vodafone SIMS,5.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,,Alex,Delta,Egy
+2026-09-02 00:00:00,Assigned,Etisalat SIMS,2.0,,Alex-Ops,Mohamed Ashraf Abo Elrashad Khalifa,,Alex,Delta,Egy
+2026-09-02 00:00:00,Assigned,Cable Type C,2.0,,Alex-Ops,Hesham Hassan Hassanin Hassan Moawad,,Alex,Delta,Egy
+2026-09-02 00:00:00,Assigned,Cable Type Micro,2.0,,Alex-Ops,Hesham Hassan Hassanin Hassan Moawad,,Alex,Delta,Egy
+2026-09-02 00:00:00,Assigned,Paper Roll (Paymob),80.0,,Alex-Ops,Hesham Hassan Hassanin Hassan Moawad,,Alex,Delta,Egy
+2026-09-02 00:00:00,Assigned,Vodafone SIMS,5.0,,Alex-Ops,Hesham Hassan Hassanin Hassan Moawad,,Alex,Delta,Egy
+2026-09-02 00:00:00,Assigned,Etisalat SIMS,1.0,,Alex-Ops,Hesham Hassan Hassanin Hassan Moawad,,Alex,Delta,Egy
+2026-09-02 00:00:00,Assigned,WE SIMS,1.0,,Alex-Ops,Hesham Hassan Hassanin Hassan Moawad,,Alex,Delta,Egy
+2026-09-02 00:00:00,Assigned,Orange SIMS,3.0,,Alex-Ops,Hesham Hassan Hassanin Hassan Moawad,,Alex,Delta,Egy
+2026-09-02 00:00:00,Assigned,Adapter,2.0,,Recycling,,,Alex,Delta,Egy
+2026-09-02 00:00:00,Assigned,Cable Type C,2.0,,Recycling,,,Alex,Delta,Egy
+2026-09-02 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,104051 - 104100,Alex,Delta,Egy
+2026-09-02 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-09-02 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Recycling,,,Alex,Delta,Egy
+2026-09-02 00:00:00,Assigned,Branded POS Stickers,20.0,,Recycling,,,Alex,Delta,Egy
+2026-09-02 00:00:00,Assigned,Cable Type Micro,15.0,,Recycling,,,Alex,Delta,Egy
+2026-09-02 00:00:00,Assigned,BM Boxes,20.0,,Recycling,,,Alex,Delta,Egy
+2026-09-02 00:00:00,Assigned,Cable Type C,5.0,,Recycling,,,Alex,Delta,Egy
+2026-09-02 00:00:00,Assigned,Adapter,4.0,,Alex-Ops,Hesham Hassan Hassanin Hassan Moawad,,Alex,Delta,Egy
+2026-09-03 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-09-06 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Mohamed Said Soliman Omar,104101-104150,Alex,Delta,Egy
+2026-09-06 00:00:00,Assigned,Cancellation Receipts,50.0,,Alex-Ops,Mohamed Said Soliman Omar,104151-104200,Alex,Delta,Egy
+2026-09-06 00:00:00,Assigned,Orange SIMS,20.0,,Alex-Ops,Mohamed Said Soliman Omar,,Alex,Delta,Egy
+2026-09-07 00:00:00,Assigned,Paper Roll (Paymob),20.0,,Alex-Ops,Mohamed Maher Hendawy Doma Dawlat,,Alex,Delta,Egy
+2026-09-07 00:00:00,Assigned,Paper Roll (Paymob),40.0,,,Ahmed Ashraf Mohamed Abdelbaqi,,Alex,Delta,Egy
+2026-09-07 00:00:00,Assigned,Cable Type C,1.0,,,Ahmed Ashraf Mohamed Abdelbaqi,,Alex,Delta,Egy
+2026-09-07 00:00:00,Assigned,WE SIMS,2.0,,,Ahmed Ashraf Mohamed Abdelbaqi,,Alex,Delta,Egy
+2026-09-07 00:00:00,Assigned,Orange SIMS,2.0,,,Ahmed Ashraf Mohamed Abdelbaqi,,Alex,Delta,Egy
+2026-09-07 00:00:00,Assigned,Vodafone SIMS,2.0,,,Ahmed Ashraf Mohamed Abdelbaqi,,Alex,Delta,Egy
+2026-09-07 00:00:00,Assigned,Etisalat SIMS,2.0,,,Ahmed Ashraf Mohamed Abdelbaqi,,Alex,Delta,Egy
+2026-09-07 00:00:00,Assigned,Orange SIMS,3.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-09-07 00:00:00,Assigned,Vodafone SIMS,3.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-09-07 00:00:00,Assigned,Paper Roll (Paymob),40.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-09-07 00:00:00,Assigned,Adapter,3.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-09-07 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-09-07 00:00:00,Assigned,Orange SIMS,3.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-09-07 00:00:00,Assigned,Etisalat SIMS,1.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-09-07 00:00:00,Assigned,Branded POS Stickers,25.0,,Recycling,,,Alex,Delta,Egy
+2026-09-08 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Ahmed Ashraf Mohamed Abdelbaqi,,Alex,Delta,Egy
+2026-09-08 00:00:00,Assigned,Orange SIMS,4.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-09-08 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Abdel Moaty Mohamed Abdel Moaty Awad,,Alex,Delta,Egy
+2026-09-08 00:00:00,Assigned,Cable Type C,5.0,,Recycling,,,Alex,Delta,Egy
+2026-09-08 00:00:00,Assigned,Branded POS Stickers,25.0,,Recycling,,,Alex,Delta,Egy
+2026-09-09 00:00:00,Assigned,Adapter,2.0,,Recycling,,,Alex,Delta,Egy
+2026-09-09 00:00:00,Assigned,Cable Type C,2.0,,Recycling,,,Alex,Delta,Egy
+2026-09-10 00:00:00,Assigned,Paper Roll (Paymob),60.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-09-10 00:00:00,Assigned,Adapter,6.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-09-10 00:00:00,Assigned,Cable Type C,5.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-09-10 00:00:00,Assigned,WE SIMS,2.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-09-10 00:00:00,Assigned,Orange SIMS,2.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy
+2026-09-10 00:00:00,Assigned,Vodafone SIMS,2.0,,Alex-Ops,Aly Kamal Ahmed Abd Elhamid Shousha,,Alex,Delta,Egy

@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    @apply bg-slate-50;
+  }
+  body {
+    @apply text-slate-800 antialiased;
+  }
+}
+
+@layer components {
+  .card {
+    @apply bg-white rounded-lg border border-slate-200 shadow-card;
+  }
+  .kpi-value {
+    @apply text-2xl font-semibold text-navy-900 tabular-nums;
+  }
+  .kpi-label {
+    @apply text-xs font-medium uppercase tracking-wide text-slate-500;
+  }
+  .section-title {
+    @apply text-sm font-semibold text-navy-800 uppercase tracking-wide;
+  }
+  .btn-primary {
+    @apply inline-flex items-center justify-center rounded-md bg-navy-900 px-4 py-2 text-sm font-medium text-white hover:bg-navy-800 disabled:opacity-50 disabled:cursor-not-allowed transition-colors;
+  }
+  .btn-secondary {
+    @apply inline-flex items-center justify-center rounded-md border border-slate-300 bg-white px-4 py-2 text-sm font-medium text-slate-700 hover:bg-slate-50 disabled:opacity-50 transition-colors;
+  }
+  .input-field {
+    @apply block w-full rounded-md border border-slate-300 px-3 py-2 text-sm placeholder:text-slate-400 focus:border-navy-500 focus:outline-none focus:ring-1 focus:ring-navy-500;
+  }
+  .table-base {
+    @apply min-w-full divide-y divide-slate-200 text-sm;
+  }
+  .table-base th {
+    @apply px-3 py-2 text-left text-xs font-semibold uppercase tracking-wide text-slate-500 bg-slate-50;
+  }
+  .table-base td {
+    @apply px-3 py-2 text-slate-700 border-t border-slate-100;
+  }
+}

@@ -1,0 +1,484 @@
+// ============================================================================
+// OPERATIONS CONTROL SYSTEM — Prisma schema
+//
+// Design notes (see README.md "Database Design" section for the full story):
+//  - POS Warehouse, Warehouse Cancel, Material Movements and Terminal Login
+//    are EVENT / FACT tables (one row per lifecycle event, not one row per
+//    physical unit) — this was confirmed by inspecting the source workbook:
+//    the same physical Serial Number appears in multiple rows over time.
+//    "Current state" is therefore always derived (latest event per serial),
+//    never stored as a separate mutable column, so it can never drift out
+//    of sync with history.
+//  - Agent Code does not exist in the real source systems yet (see the
+//    workbook's own README tab). Agent Master currently assigns a
+//    placeholder code (AG-00001, ...) keyed by Agent Name. The schema
+//    supports a real Agent Code the moment one is supplied — nothing else
+//    needs to change.
+//  - Every event table carries `importBatchId` + `sourceRowHash` for
+//    lineage and idempotent re-import (see src/lib/importers/README.md).
+// ============================================================================
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// ----------------------------------------------------------------------------
+// AUTH / RBAC
+// ----------------------------------------------------------------------------
+
+model User {
+  id           String    @id @default(cuid())
+  email        String    @unique
+  name         String
+  passwordHash String
+  roleId       String
+  role         Role      @relation(fields: [roleId], references: [id])
+  status       UserStatus @default(ACTIVE)
+  lastLoginAt  DateTime?
+  createdAt    DateTime  @default(now())
+  updatedAt    DateTime  @updatedAt
+
+  auditLogs    AuditLog[]
+  importBatches ImportBatch[]
+
+  @@map("users")
+}
+
+enum UserStatus {
+  ACTIVE
+  DISABLED
+}
+
+model Role {
+  id          String   @id @default(cuid())
+  name        String   @unique // Admin, Management, Operations, Warehouse, LiveOps, Payroll, Finance, ReadOnly
+  description String?
+  isSystem    Boolean  @default(false) // seeded roles can't be deleted from the UI
+  users       User[]
+  permissions RolePermission[]
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@map("roles")
+}
+
+model Permission {
+  id          String @id @default(cuid())
+  key         String @unique // e.g. view_agent_custody, manage_imports
+  label       String
+  category    String // Custody, Warehouse, Performance, Payroll, Data Management, Administration...
+  roles       RolePermission[]
+
+  @@map("permissions")
+}
+
+model RolePermission {
+  roleId       String
+  permissionId String
+  role         Role       @relation(fields: [roleId], references: [id], onDelete: Cascade)
+  permission   Permission @relation(fields: [permissionId], references: [id], onDelete: Cascade)
+
+  @@id([roleId, permissionId])
+  @@map("role_permissions")
+}
+
+model AuditLog {
+  id         String   @id @default(cuid())
+  userId     String?
+  user       User?    @relation(fields: [userId], references: [id])
+  action     String   // CREATE, UPDATE, DELETE, IMPORT, LOGIN, EXPORT, ...
+  entity     String   // e.g. "Agent", "User", "ImportBatch"
+  recordId   String?
+  oldValue   Json?
+  newValue   Json?
+  ipAddress  String?
+  createdAt  DateTime @default(now())
+
+  @@index([entity, recordId])
+  @@index([userId])
+  @@map("audit_log")
+}
+
+// ----------------------------------------------------------------------------
+// DATA MANAGEMENT / IMPORT LINEAGE
+// ----------------------------------------------------------------------------
+
+enum ImportDataset {
+  AGENT_MASTER
+  POS_WAREHOUSE
+  MATERIAL_DATA
+  WAREHOUSE_CANCEL
+  TERMINAL_LOGIN
+  DAILY_CANCELLATION
+  SIM_DATA
+  RECEIPTS
+  AGENT_CHECKPOINT
+}
+
+enum ImportStatus {
+  RUNNING
+  SUCCEEDED
+  SUCCEEDED_WITH_ERRORS
+  FAILED
+}
+
+model ImportBatch {
+  id              String        @id @default(cuid())
+  dataset         ImportDataset
+  sourceLabel     String        // e.g. "Manual Upload", "OneDrive Sync" (future)
+  fileName        String
+  triggeredById   String?
+  triggeredBy     User?         @relation(fields: [triggeredById], references: [id])
+  startedAt       DateTime      @default(now())
+  finishedAt      DateTime?
+  rowsRead        Int           @default(0)
+  rowsInserted    Int           @default(0)
+  rowsUpdated     Int           @default(0)
+  rowsSkipped     Int           @default(0)
+  rowsRejected    Int           @default(0)
+  status          ImportStatus  @default(RUNNING)
+  errorSummary    String?
+  rejectedRows    ImportRejectedRow[]
+
+  @@index([dataset, startedAt])
+  @@map("import_batches")
+}
+
+model ImportRejectedRow {
+  id            String      @id @default(cuid())
+  importBatchId String
+  importBatch   ImportBatch @relation(fields: [importBatchId], references: [id], onDelete: Cascade)
+  rowNumber     Int
+  rawData       Json
+  reason        String
+
+  @@index([importBatchId])
+  @@map("import_rejected_rows")
+}
+
+// ----------------------------------------------------------------------------
+// ORGANIZATIONAL MODEL (masters / dimensions)
+// ----------------------------------------------------------------------------
+
+model Team {
+  id      String  @id @default(cuid())
+  name    String  @unique // e.g. "Alex-Ops", "Alex-Sales"
+  agents  Agent[]
+  @@map("teams")
+}
+
+model Region {
+  id     String  @id @default(cuid())
+  name   String  @unique
+  agents Agent[]
+  @@map("regions")
+}
+
+model LiveOps {
+  id     String  @id @default(cuid())
+  name   String  @unique
+  agents Agent[]
+  @@map("live_ops")
+}
+
+model TeamLeader {
+  id     String  @id @default(cuid())
+  name   String  @unique
+  agents Agent[]
+  @@map("team_leaders")
+}
+
+enum AgentStatus {
+  ACTIVE
+  INACTIVE
+  TERMINATED
+}
+
+model Agent {
+  // Placeholder codes today (AG-00001...). Real Agent Codes can replace
+  // these directly — every table below references Agent by this code.
+  agentCode     String       @id
+  agentName     String
+  teamId        String?
+  team          Team?        @relation(fields: [teamId], references: [id])
+  regionId      String?
+  region        Region?      @relation(fields: [regionId], references: [id])
+  liveOpsId     String?
+  liveOps       LiveOps?     @relation(fields: [liveOpsId], references: [id])
+  teamLeaderId  String?
+  teamLeader    TeamLeader?  @relation(fields: [teamLeaderId], references: [id])
+  status        AgentStatus  @default(ACTIVE)
+  createdAt     DateTime     @default(now())
+  updatedAt     DateTime     @updatedAt
+
+  assignmentHistory AgentAssignmentHistory[]
+  checkpoints       AgentCheckpoint[]
+  simRecords        SimRecord[]
+  receiptRecords    ReceiptRecord[]
+
+  @@index([agentName])
+  @@map("agents")
+}
+
+// Prepared for future organizational-change tracking (section 6 of the
+// spec). Empty until a process starts logging changes into it.
+model AgentAssignmentHistory {
+  id             String    @id @default(cuid())
+  agentCode      String
+  agent          Agent     @relation(fields: [agentCode], references: [agentCode], onDelete: Cascade)
+  fieldChanged   String    // "team" | "region" | "liveOps" | "teamLeader" | "status"
+  oldValue       String?
+  newValue       String?
+  effectiveFrom  DateTime
+  effectiveTo    DateTime?
+  createdAt      DateTime  @default(now())
+
+  @@index([agentCode])
+  @@map("agent_assignment_history")
+}
+
+// ----------------------------------------------------------------------------
+// POS LIFECYCLE (event/fact table)
+// ----------------------------------------------------------------------------
+
+model PosEvent {
+  id              String    @id @default(cuid())
+
+  // lineage
+  importBatchId   String?
+  sourceRowHash   String    // content hash of business fields, see importers/hash.ts
+  occurrenceIndex Int       @default(1) // disambiguates true duplicate rows within one file
+  importedAt      DateTime  @default(now())
+
+  actionDate      DateTime?
+  posSource       String?   // "Cancellation" | "Transfer" | ...
+  serialNumber    String
+  serialKey       String    // normalized zero-padded / uppercased key — see lib/serial.ts
+  imei            String?
+  imei2           String?
+  posType         String?   // BM / NBE / CIB / Verifone
+  boxNumber       String?
+  category        String?   // Pax / Verifone / Sunmi
+  modelType       String?   // A920 PRO / A960 / A920 / X990 / P3
+  paymob          String?
+  sahlOrNot       String?
+  cibOrNot        String?
+  posStatus       String?   // Deployed / Assigned / Transfer / POS Login / Ready / Branding / Broken
+  agentCode       String?
+  assignedTeam    String?   // Alex-Ops / Alex-Sales / Transfer / Recycling
+  assigningName   String?   // raw text from source, kept even if agentCode couldn't be resolved
+  assigningDate   DateTime?
+  deploymentDate  DateTime?
+  mid             String?
+  tid             String?
+  receiptNumber   String?
+  receiptDate     DateTime?
+  city            String?
+  zone            String?
+  address         String?
+  comment         String?
+  stockStatus     String?   // Onground / In-Hand / Out Of Hub / In-Stock
+  tidVal          String?
+  city2           String?
+  region          String?
+  country         String?
+
+  @@unique([sourceRowHash, occurrenceIndex])
+  @@index([serialKey])
+  @@index([agentCode])
+  @@index([actionDate])
+  @@index([posStatus])
+  @@index([tid, serialKey])
+  @@map("pos_events")
+}
+
+// ----------------------------------------------------------------------------
+// WAREHOUSE CANCEL RETURNS
+// ----------------------------------------------------------------------------
+
+model WarehouseCancelReturn {
+  id                       String    @id @default(cuid())
+  importBatchId            String?
+  sourceRowHash            String
+  occurrenceIndex          Int       @default(1)
+  importedAt               DateTime  @default(now())
+
+  receivedDate             DateTime?
+  serial                   String
+  serialKey                String
+  imei                     String?
+  mid                      String?
+  tid                      String?
+  status                   String?   // Branding / Broken
+  cancellationOrExchange   String?   // Cancellation / Exchange
+  cancellationDate         DateTime?
+  receiptNumber            String?
+  agentCode                String?
+  team                     String?
+  name                     String?   // raw agent name from source
+  box                      String?
+  cable                    String?
+  sim                      String?
+  adapter                  String?
+  modelType                String?
+  paymob                   String?
+  cibOrNot                 String?
+  comment                  String?
+  city                     String?
+  region                   String?
+  country                  String?
+  // Business match key: TID + Serial (never Serial alone — see spec section 9/46)
+  tidSerialKey             String
+
+  @@unique([sourceRowHash, occurrenceIndex])
+  @@index([tidSerialKey])
+  @@index([receivedDate])
+  @@index([agentCode])
+  @@map("warehouse_cancel_returns")
+}
+
+// ----------------------------------------------------------------------------
+// MATERIAL MOVEMENTS
+// ----------------------------------------------------------------------------
+
+model MaterialMovement {
+  id              String   @id @default(cuid())
+  importBatchId   String?
+  sourceRowHash   String
+  occurrenceIndex Int      @default(1)
+  importedAt      DateTime @default(now())
+
+  moveDate        DateTime?
+  orderType       String   // "Received" | "Assigned"
+  materialType    String
+  qty             Decimal  @db.Decimal(14, 2)
+  agentCode       String?
+  team            String?
+  agentName       String?
+  vendorName      String?
+  city            String?
+  region          String?
+  country         String?
+
+  @@unique([sourceRowHash, occurrenceIndex])
+  @@index([moveDate])
+  @@index([materialType])
+  @@index([agentCode])
+  @@map("material_movements")
+}
+
+// ----------------------------------------------------------------------------
+// TERMINAL LOGIN (potentially very large — heavily indexed)
+// ----------------------------------------------------------------------------
+
+model TerminalLogin {
+  id              String   @id @default(cuid())
+  importBatchId   String?
+  importedAt      DateTime @default(now())
+
+  serialNumber    String
+  serialKey       String
+  terminalId      String
+  deploymentDate  DateTime
+
+  // natural key confirmed collision-free against real data
+  @@unique([serialKey, terminalId, deploymentDate])
+  @@index([serialKey, deploymentDate])
+  @@map("terminal_login")
+}
+
+// ----------------------------------------------------------------------------
+// DAILY AGENT CANCELLATION
+// (NOT present in the source workbook yet — schema ready, table empty until
+//  this export is provided; see spec section 8F / workbook README note 5)
+// ----------------------------------------------------------------------------
+
+model DailyAgentCancellation {
+  id              String    @id @default(cuid())
+  importBatchId   String?
+  sourceRowHash   String
+  occurrenceIndex Int       @default(1)
+  importedAt      DateTime  @default(now())
+
+  team            String?
+  region          String?
+  city            String?
+  tid             String?
+  mid             String?
+  cancelDate      DateTime?
+  imei            String?
+  serial          String?
+  serialKey       String?
+  posModel        String?
+  agentCode       String?
+  agentName       String?
+  source          String?
+  ticketId        String?
+  comment         String?
+  warehouseReceived Boolean @default(false)
+  tidSerialKey    String?
+
+  @@unique([sourceRowHash, occurrenceIndex])
+  @@index([tidSerialKey])
+  @@index([agentCode])
+  @@map("daily_agent_cancellation")
+}
+
+// ----------------------------------------------------------------------------
+// SERIALIZED SIM / RECEIPTS
+// (NOT present in the source workbook yet — only aggregate counts exist in
+//  Material Data today. Schema ready, tables empty until a serialized
+//  export is supplied; see spec section 8G/8H.)
+// ----------------------------------------------------------------------------
+
+model SimRecord {
+  simSerial            String    @id
+  operator             String?   // Vodafone / Etisalat / WE / Orange
+  warehouseReceivedDate DateTime?
+  assignDate           DateTime?
+  agentCode            String?
+  agent                Agent?    @relation(fields: [agentCode], references: [agentCode])
+  agentName            String?
+  team                 String?
+  importBatchId        String?
+  importedAt           DateTime  @default(now())
+
+  @@map("sim_records")
+}
+
+model ReceiptRecord {
+  receiptSerial         String    @id
+  receiptType           String?   // Deployment / Cancellation / Cash / Exchange Receipt
+  warehouseReceivedDate DateTime?
+  assignDate            DateTime?
+  agentCode             String?
+  agent                 Agent?    @relation(fields: [agentCode], references: [agentCode])
+  agentName             String?
+  team                  String?
+  importBatchId         String?
+  importedAt            DateTime  @default(now())
+
+  @@map("receipt_records")
+}
+
+// ----------------------------------------------------------------------------
+// AGENT CHECKPOINT (clearance audit)
+// (NOT present in the source workbook yet — schema ready, empty)
+// ----------------------------------------------------------------------------
+
+model AgentCheckpoint {
+  id            String   @id @default(cuid())
+  agentCode     String
+  agent         Agent    @relation(fields: [agentCode], references: [agentCode], onDelete: Cascade)
+  auditDate     DateTime
+  importBatchId String?
+  importedAt    DateTime @default(now())
+
+  @@unique([agentCode, auditDate])
+  @@map("agent_checkpoints")
+}
